@@ -2,7 +2,7 @@
 ID: "a247bd3c-53cc-44c2-b7b3-a7cf418097ef"
 Parent: "4e869961-efef-4b47-bb69-170a251d689b"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Furniture"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/D-Max"
 SharedFields:
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
   Hint: NavigationFilter
@@ -60,6 +60,13 @@ SharedFields:
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a8507d58-1199-41c4-b152-84760eaead67"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "D-Max"
   Versions:
   - Version: 1
     Fields:
@@ -77,7 +84,7 @@ Languages:
       Value: Furniture
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Furniture
+      Value: "D-Max"
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
       Value: About us
@@ -86,14 +93,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "343a5471-8f0c-424d-b1b6-658f45b6a84e"
+      Value: "255067ef-40f2-4581-97fa-f38d25de560d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082508Z
+      Value: 20260331T034709Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -101,6 +108,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250828T085308Z
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Furniture
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -214,6 +224,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250828T085324Z
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Furniture
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |

@@ -6,14 +6,14 @@ Path: "/sitecore/content/industry-verticals/forma-lux/Presentation/Partial Desig
 SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature
-  Value: footer
+  Value: "sxa-footer"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{FE3FFAA8-9467-4164-AC58-B493B04C7E64}" />
+    <image mediaid="{86439BAA-663A-4056-9AAC-FFFF70D5D2BD}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "38ba1545-adf5-4de2-a818-bb9057ea90f1"
+  Value: "73e1994e-1f1c-4173-a8d6-2e1d4567b1e4"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -185,14 +185,14 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "98a4348b-eb7c-4b70-9a05-8abeff3a72e4"
+      Value: "b66adf37-6e23-4000-aff3-9d82df3477a9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260121T122109Z
+      Value: 20260331T060517Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -210,14 +210,14 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d19a36e6-549f-47e0-b03d-6601ddb71b12"
+      Value: "7dfd347f-f1fc-413a-b953-ef4ecee701c4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260121T122109Z
+      Value: 20260331T060517Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -260,11 +260,11 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0fffb182-84db-412d-9073-085d4807616a"
+      Value: "3d2cadb6-0873-4145-a92d-8124d6be557f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260121T122109Z
+      Value: 20260331T060517Z

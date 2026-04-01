@@ -15,10 +15,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79693-HomepagePromoCTAs-1100x740?v=59423734" dam-id="LH3yJOzhRICq8Rd348BquA" width="1100" height="740" alt="2e0c02e1ec82784896a5ba2a8ae7a2ddc864aad9 (1).jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79693/thumbnail" />
+    <image mediaid="091ff3aa-46c3-427f-a98d-35f664c4393c" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "bbf6784c-6475-4df3-8682-07bbb884252f"
+  Value: "80d1c63b-6133-4122-996d-b10d4578b116"
 Languages:
 - Language: en
   Versions:
@@ -37,7 +37,7 @@ Languages:
     - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
       Hint: PromoDescription
       Value: |
-        <div class="ck-content"><p><meta charset="utf-8" /><span style="white-space:pre-wrap;">You don’t have to worry about the result because all of these interiors are made by people who are professionals in their fields with an elegant and luxurious style and with premium quality materials</span></p></div>
+        <div class="ck-content"><p>Take advantage of huge savings on selected 25MY D-MAX and MU-X models. With limited stock available, now is the time to secure exceptional value on your new Isuzu.</p><p>Stock is limited, so visit your Isuzu UTE dealer today.</p></div>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -51,17 +51,17 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d57c1d2f-5231-43e1-8bb6-5b280508fff7"
+      Value: "24afd579-264a-45b8-ad5c-d05a4a8fcfd8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T083553Z
+      Value: 20260331T041905Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
-      Value: We provide you  the best experience
+      Value: Isuzu Offers
 - Language: "es-ES"
   Versions:
   - Version: 1

@@ -44,6 +44,11 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'starter-verticals.sitecoresandbox.cloud',
+        port: '',
+      },
+      {
+        protocol: 'https',
         hostname: 'placehold.co',
         port: '',
       },

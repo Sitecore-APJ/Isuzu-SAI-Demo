@@ -1,0 +1,60 @@
+﻿---
+ID: "9ed76d2a-689e-4046-a41c-8a560188bdb8"
+Parent: "cb85c659-2e7e-48b9-ae40-40f73ec3dcb0"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/industry-verticals/forma-lux/Logos/isuzu-logo-nav"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9ED76D2A689E4046A41C8A560188BDB8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 320
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "84e31c75-74b7-4b6e-acdc-23423e75ea87"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAUAAAAA8CAYAAAAXB2OkAAAGqElEQVR42uzbTYhNYRzH8XNngfJSXqJJzQKTEkWJ1WwsZGMlYmVhI6UsNDRSFBuRlygpGmWnlDBmMzWlLFiYkmm8NCQ7je7oFg3O33cx9Wxm7nnmeZ57Zk7z+9VnOefec+r5NjPdm2mapmma1xrtK9/Bmshx0vNa23EFrzCGegmONHk/D2EFHkQ8u7ewAmem+dkLqJdkFP3owSbPe9uHHNbED6wKfHanYQVGdEK1VgfQPPQWXGMNHsNmwbUm72sIVmCo1GfnfnYQNkueoqPg3s7BPGwNfHa9sCI6odrcDaCL3yeYAliBADrfsVkB1BTAuAD2wRTACgXQ+YAFCqCmAIYd4h0wBbCCAXQOKoCaAhh2iC8pgJUP4F0FUFMAww7xAMzDBF5gMLEB7KpoALvxpUV+wTz1K4CaAhh2iIdhHkbRhVrWglUggGXecxvOwjzdUwA1BTAsgC9h8PURPVirACa/16U4jvcw+NqrAGoKYFgAL8IC/MNz7MdCBTDqHjtxHT9hM/QabQqgpgCGBbAdDViEMdzANgXQ+3Vr2IM+5LAAdXTqc4CaAhj3OcBDsETe4ARWK4BTvt4SHMMILMJXbNE3QTQFMM1X4Q7jNyyRP3iGA1g03wPINdbjKsZhESZwE8sypgBqCmDsIXbX2YhH+AtLaBx30IXavAig+zN3N54gh0Vo4BY2ZJNTADUt9SF2/xfsxjAssc84j3WVC6D/NRfjaKLn9w2nsDybnAKoaeX9FrMTt1GHJZTjPlZUPoDuWh24/L+d+wutso7jOP6Ekm0tNm1kQlT2D5WITRhCjVp1bR2ZZEJUehEVtNqBhLaYEnS3MrQg6mInZMjGaAdkBBPiFCszLwIrmpW0/lCJlGeZGdb8+r54LsY4e/6dx/N7Dvu84XUj7vE3fM4Hj882nIFV6Ri2Y7nnpwFUytH/Y/HxV+FRTOIiLCU/4baAP/d4BgZwJMKDjb24AKvCHMZwjzcvDaBS2XqSeQP68C0sBd+hcZE/ayYDA1gM+PgNOAmrwl94HWs9Pw2gUvXxtWydeDeFp5v9VQzgyYTnb6pmAPn19irf7v6A3vlPdB0N4N0Jr/++BlAtnQEMf4u8DRMJnyJ/n3gAgYcTnHkg6QD637b2IyyBKXRjmefneABHEjyd34DzGkClAaz8E6bzCd4iX1vhWl/BIvgXeTREOF8r9sIiGq5wjX5YDP/jIDq8gJwMIDCGWyL+oIbtOA3TAKq6H0D/rWwL0taKQ7CIbq5wtk9gMZzBOHbjKeTQjWfwKg7jPCyGtyqc6wtYRLNY7+C+eDrBQ5gjGEQPHkEOO9GHYfwGi2FWr1CV9QF8E5YBzRXO9hrMsSe8BSX4/ulzKMdwFhbBkYC/13aYY5N6haqsD2AR5tg3i5ytA+bQOayscK4/YVkQ8i/7EzCHduoVqjSA4V4OON8ozJG+Rc40lfUB9M/5EMyR41iuV6jSAAY7jVUB52vGUViNDWPZImd6vB4G0D/rS7Aa+xm36tWpNIDB/sF9ET7HhoDvtkhbGXlcEfI09BDMtYj3yFb8AquBUazWK1PVJH9ELMT+gI8fhznwGdpifq5r8AImcAqWkhmMYAeuiXiWKzGIC64HMMZ5uzGEaczBUlBGCQO4Q69IVesBvB1dIa4O+Pj7MYRCDexDHhtT+tyvw714DH14GwdQxIc4ik9xGEUUsB+7sA2b0FzlGa7HcziIz3ECMzUyWsW5G9COLXgegyhgDB/gYxxDCUUM4x3sxg48iJv0ClRKKaWUUkoppZRSSimllFJKKaWUUkoppZRSSiml6rXe3vxG5EI0x7zmGuRCrJv3+xvQ5sDaBefehJwDrboTlXIzgAVYiLaY18zBQuzx/PwxMgeKC85dhDnQpTtRKQ2gBlAppQHUACqllsoArsKTEU3DQjwb8VoPJBjAKXSlrEV3olJLbAATnrcECxJnUBIMYFF3jVIaQA2gUkoDqAFUSmkAl8YATmNPWnQHKqUBzNQA1pLuQKU0gBpApZQGUAOolNIAZncAJ9CSBn39n1LuB3AfLMTWmNd8ERaiV0+BlVKuB7AXFuJrrIx4vRvxOyzEZg2gUsr1AK6HRfArduEurFhwjUZ04BWUYSHKaNIAKqWyMIIHYDGVfbOwmHo8qtMB/A/llHXqLlTK3QA2Yhx2mc2h3/PTU2D9NBilsjSEW1DCRViK/sZ7uNMjDaAGUKksD+FqbMYARvARpvEHzga8JT6FLzGJIfSgEytSPNsbKIVoSnjtHhQcWKe7TimlVN11CS+IidGJs5w5AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1761
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 320 x 60
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "46db6826-e0bf-44e7-961d-7a4416dba71c"
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 60
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260331T025419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0b876ef-1285-44c7-9b18-c64a4664d3ab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260331T025419Z

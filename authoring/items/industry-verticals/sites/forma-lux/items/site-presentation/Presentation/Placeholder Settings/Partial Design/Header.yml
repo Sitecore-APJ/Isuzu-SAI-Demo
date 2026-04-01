@@ -6,10 +6,10 @@ Path: "/sitecore/content/industry-verticals/forma-lux/Presentation/Placeholder S
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: "sxa-header"
+  Value: "sxa-sxa-header"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c4bd7ce3-d45f-4e73-88fc-885408e69631"
+  Value: "99761e18-dc08-4e21-af4f-3145b6fad1df"
 Languages:
 - Language: en
   Versions:
@@ -28,14 +28,14 @@ Languages:
         sitecore\ranula.gamage@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "530d349d-ca80-4e1b-8701-592a4a94b6fc"
+      Value: "6527a4fc-6436-43b6-b59d-55f6133abb72"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250827T095907Z
+      Value: 20260331T003629Z
 - Language: "es-ES"
   Versions:
   - Version: 1

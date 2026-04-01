@@ -2,7 +2,7 @@
 ID: "baa0704b-c6b1-41fc-9fc5-01c79ff5ddc4"
 Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Handmade pieces that took time to make"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Isuzu UTE Australia Shifts Into Gear"
 SharedFields:
 - ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
   Hint: Author
@@ -22,7 +22,7 @@ SharedFields:
 - ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
   Hint: Image
   Value: |
-    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/56ed3da761284587a81b95612169f224?v=482e83fc" dam-id="JvO38VzSTBOaEPi8_cRk0g" width="3840" height="2160" alt="article4.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76598/thumbnail" />
+    <image mediaid="fd241d21-9e1f-42c3-961d-cec217442000" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50
@@ -32,7 +32,7 @@ SharedFields:
     <image mediaid="{E65E4578-2747-482C-B25A-E1C1CF6760EF}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c76cb12f-882c-4164-91c2-3c7de9a76ae9"
+  Value: "008d3f46-0da6-464d-bd7c-b861baafcdd4"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -56,10 +56,10 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "76206135-8c03-438f-bcd5-e573e7eeef1a"
+    Value: "04d3f430-d4b7-4cc6-895d-b76e45dbcf60"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Handmade pieces that took time to make
+    Value: Isuzu UTE Australia Shifts Into Gear As Official Automotive Partner of Football Australia
   Versions:
   - Version: 1
     Fields:
@@ -85,7 +85,7 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Statement Pieces That Spark Conversation</h3><p>A suspended iron light fixture draws the eye, hovering above a low-profile coffee table crafted from driftwood. Nearby, a sculptural bookshelf holds a curated mix of art, plants, and ceramics, offering both function and flair.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p></div>
+        <div class="ck-content"><figure class="image"><img style="aspect-ratio:1162/670;" src="https://cdn-iua.dataweavers.io/-/media/discover/news/2026/football-australia-partnership/football-australia-partnership_internal-1.jpg?rev=e1427657f0fa44ee8c01b6fc251ad78b" width="1162" height="670" /></figure><p>&nbsp;</p><p>Football Australia will work closely with Isuzu UTE and its Australia-wide dealer network on promotional opportunities, digital content and community engagement activations.</p><p>The partnership will hero Isuzu UTE Australia’s vehicles nationally and provide a platform and experience opportunities to showcase their vehicles in authentic and innovative ways, focusing on promotion of the Isuzu D-MAX and MU-X.</p><p>Isuzu UTE Australia’s support comes as the CommBank Matildas and CommBank Socceroos each approach major tournaments in 2026, with the CommBank Matildas competing in the AFC Women’s Asian Cup Australia 2026™ and the CommBank Socceroos preparing for the FIFA World Cup 2026™.</p><p>The three-year partnership is an extension of Isuzu UTE Australia’s continued investment in football, with the automotive brand a leading partner of the A-Leagues for over four years. As part of the partnership, Isuzu UTE will remain a partner of the A-League Men and Women.</p></div>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -93,24 +93,26 @@ Languages:
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
       Value: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
+        Isuzu UTE Australia (IUA) is delighted to announce the landmark multi-year partnership with Football Australia (FA) as the official automotive partner of Australia's iconic national teams.
+        
+        In a significant boost for the sport, the agreement encompasses the entire national team pathway, including the CommBank Socceroos, CommBank Matildas, the men’s and women’s youth squads (U17s, U20s and U23s) as well as the CommBank Pararoos and CommBank ParaMatildas.
         
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
       Value: Explore how patience and precision define Handmade Pieces That Took Time to Make. Forma Lux celebrates slow design—crafted furniture and home décor where every curve, texture, and finish reflects human touch.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78231e5b-be5b-4d6d-afbd-0dbb63283d64"
+      Value: "f1d2afc8-d58d-4a2e-bad8-682bf90e71db"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Handmade pieces that took time to make
+      Value: Isuzu UTE Australia Shifts Into Gear As Official Automotive Partner of Football Australia
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082512Z
+      Value: 20260331T073540Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Handmade Pieces That Took Time to Make | Forma Lux Journal – The Beauty of Patience in Design
@@ -145,6 +147,9 @@ Languages:
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: 
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Handmade pieces that took time to make
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

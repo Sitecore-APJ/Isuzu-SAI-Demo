@@ -23,6 +23,7 @@ SharedFields:
     {B49CF2D7-7CB2-4918-8F38-2607D956D995}
     {44DCC929-7EE5-4430-81BF-D7F041420CBF}
     {3EF239BA-A9CC-4BEC-B343-B9ABB9A9C94A}
+    {34D1BB7E-988B-4A98-9E04-538DA069B2CD}
     {3275D21A-F7AC-4682-9EBF-BEF6FEBBDDA8}
     {96E7CF65-48A4-47BE-9BB7-DCE50CF7AEA1}
     {66B804D4-B6B6-4342-987F-AC4987D6F900}
@@ -37,7 +38,7 @@ SharedFields:
     {60C9D163-2898-49E3-A3B4-60F8E743062A}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c57aeca6-3254-494d-a334-5e92decfbc3b"
+  Value: "504c5fc1-fb62-49b4-a687-cacb3bed6d10"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{EDD5B21F-2BD2-4290-81A2-68428363D312}"
@@ -59,14 +60,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f32e2e20-425c-477f-a12b-72c701a5f976"
+      Value: "cb9af0e3-1049-4756-8fde-eb44940af9d5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251224T140914Z
+      Value: 20260401T012831Z
 - Language: "es-ES"
   Versions:
   - Version: 1

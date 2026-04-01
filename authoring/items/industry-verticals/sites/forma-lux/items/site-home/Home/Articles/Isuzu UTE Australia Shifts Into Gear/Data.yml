@@ -1,8 +1,8 @@
 ﻿---
-ID: "867d02c6-9961-4efb-aee7-335fe9cd30ca"
-Parent: "a247bd3c-53cc-44c2-b7b3-a7cf418097ef"
+ID: "8cbc6809-b5ea-46cc-9e19-b41df72f25a1"
+Parent: "baa0704b-c6b1-41fc-9fc5-01c79ff5ddc4"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Furniture/Data"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Isuzu UTE Australia Shifts Into Gear/Data"
 Languages:
 - Language: en
   Versions:
@@ -10,83 +10,57 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250901T133805Z
+      Value: 20250919T121310Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\movin.tilakaratne@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "311162d6-358b-48f9-b13a-ef878e57fa2b"
+      Value: "f067fd46-cdf3-453f-93df-a9afc9b59d87"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\movin.tilakaratne@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250901T133805Z
+      Value: 20250919T121310Z
 - Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250901T133805Z
+      Value: 20251219T104237Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "8e611888-ac91-4c3f-9159-046ae64e5c45"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20250901T133805Z
-  - Version: 2
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20251219T104211Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\movin.tilakaratne@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bef42c42-b5de-466b-85b8-183cf3396ddf"
+      Value: "133402e5-158f-4686-bc95-b899a2722feb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\movin.tilakaratne@sitecore.com
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20251219T104211Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251219T104211Z
+      Value: 20251219T104237Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20251217T110011Z
+      Value: 20251217T110041Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -97,36 +71,36 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "84519b7d-6363-401a-a27e-72fb652c895d"
+      Value: "b0277ca8-b72a-457d-8383-946f7fcb2a91"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\isuru.bandara@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251217T110011Z
+      Value: 20251217T110041Z
 - Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250901T133805Z
+      Value: 20251217T103937Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\isuru.bandara@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d06d4361-9903-44cd-a1ad-9041b4b2feb8"
+      Value: "d9959e3b-ed32-4a9c-a328-8783a5f3964c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\isuru.bandara@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250901T133805Z
+      Value: 20251217T103937Z
