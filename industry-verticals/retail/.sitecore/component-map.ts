@@ -45,6 +45,7 @@ import * as HeroBanner from 'src/components/hero-banner/HeroBanner';
 import * as Header from 'src/components/header/Header';
 import * as Footer from 'src/components/footer/Footer';
 import * as Features from 'src/components/features/Features';
+import * as EventDetails from 'src/components/event-details/EventDetails';
 import * as ContentBlock from 'src/components/content-block/ContentBlock';
 import * as Container from 'src/components/container/Container';
 import * as ContactForm from 'src/components/contact-form/ContactForm';
@@ -99,6 +100,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['Header', { ...Header }],
   ['Footer', { ...Footer }],
   ['Features', { ...Features }],
+  ['EventDetails', { ...EventDetails }],
   ['ContentBlock', { ...ContentBlock }],
   ['Container', { ...Container }],
   ['ContactForm', { ...ContactForm, componentType: 'client' }],
