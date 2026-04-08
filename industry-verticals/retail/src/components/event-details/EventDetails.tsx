@@ -73,8 +73,9 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
   const hasRegistrationLink =
     isPageEditing ||
     Boolean(
-      (typeof registrationLinkValue?.href === 'string' && registrationLinkValue.href.trim() !== '') ||
-        (registrationLinkValue as { id?: string } | undefined)?.id
+      (typeof registrationLinkValue?.href === 'string' &&
+        registrationLinkValue.href.trim() !== '') ||
+      (registrationLinkValue as { id?: string } | undefined)?.id
     );
 
   useEffect(() => {
@@ -93,9 +94,14 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
     );
   }
 
-  const eventDateText = formatEventDateDisplay(fields.EventStartDate?.value, fields.EventEndDate?.value);
+  const eventDateText = formatEventDateDisplay(
+    fields.EventStartDate?.value,
+    fields.EventEndDate?.value
+  );
   const vehiclesPerTripValue = parseNumericFieldValue(fields.VehiclesPerTrip);
-  const costPerVehicleFormatted = formatAudWholeDollars(parseNumericFieldValue(fields.CostPerVehicle));
+  const costPerVehicleFormatted = formatAudWholeDollars(
+    parseNumericFieldValue(fields.CostPerVehicle)
+  );
 
   return (
     <>
@@ -127,13 +133,7 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
             </div>
 
             <div className="col-span-12 mt-8 text-center lg:col-span-8 lg:col-start-3">
-              <h2>
-                {hasTitleValue ? (
-                  <ContentSdkText field={fields.Title} />
-                ) : (
-                  'Title'
-                )}
-              </h2>
+              <h2>{hasTitleValue ? <ContentSdkText field={fields.Title} /> : 'Title'}</h2>
 
               <div className="mt-6 flex justify-center">
                 {hasRegistrationLink ? (
@@ -172,13 +172,7 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
                 <div className="bg-background-muted flex flex-col items-center justify-center p-[10px]">
                   <PlaceholderStatIcon />
                   <p className="text-foreground mt-3 text-center font-bold">
-                    {costPerVehicleFormatted ? (
-                      <>
-                        {costPerVehicleFormatted} per vehicle
-                      </>
-                    ) : (
-                      '—'
-                    )}
+                    {costPerVehicleFormatted ? <>{costPerVehicleFormatted} per vehicle</> : '—'}
                   </p>
                 </div>
               </div>
@@ -190,7 +184,7 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
               <div className="mt-10 w-full">
                 <div className="col-span-12 !mx-auto lg:col-span-6">
                   <h2 className="font-bold uppercase">ABOUT THE DAY</h2>
-                  <div className="rich-text mt-4 text-lg text-justify">
+                  <div className="rich-text mt-4 text-justify text-lg">
                     <ContentSdkRichText field={fields.EventSummary} />
                   </div>
                 </div>

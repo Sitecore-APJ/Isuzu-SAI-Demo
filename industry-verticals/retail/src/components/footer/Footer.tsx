@@ -99,17 +99,17 @@ export const Default = (props: FooterProps) => {
       </div>
       <div>
         <div className="container flex items-center justify-between py-8.5 max-sm:flex-col max-sm:items-start max-sm:gap-10">
-          <div className="max-sm:order-2 text-white">
+          <div className="text-white max-sm:order-2">
             {props.fields.CopyrightText?.value?.toString() ?? ''}
           </div>
           <div className="flex items-center justify-between gap-20 max-lg:gap-10 max-sm:order-1 max-sm:flex-col max-sm:items-start max-sm:gap-5">
             <Link
               field={props.fields.TermsText}
-              className="text-white hover:underline hover:text-neutral-200"
+              className="text-white hover:text-neutral-200 hover:underline"
             />
             <Link
               field={props.fields.PolicyText}
-              className="text-white hover:underline hover:text-neutral-200"
+              className="text-white hover:text-neutral-200 hover:underline"
             />
           </div>
         </div>

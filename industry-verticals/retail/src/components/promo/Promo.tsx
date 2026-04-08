@@ -43,9 +43,7 @@ export const PromoContent = ({ ...props }) => {
 
   return (
     <div className="space-y-5">
-      <div className="eyebrow">
-        {props.fields.PromoSubTitle?.value?.toString() ?? ''}
-      </div>
+      <div className="eyebrow">{props.fields.PromoSubTitle?.value?.toString() ?? ''}</div>
 
       <h2 className="inline-block max-w-md">
         {props.fields.PromoTitle?.value?.toString() ?? ''}
@@ -202,9 +200,7 @@ export const WithFullImage = (props: PromoProps): JSX.Element => {
 
           <div className="grid-col-1 grid gap-5 md:grid-cols-2">
             <div className="font-bold">
-              <h2 className="max-w-md">
-                {props.fields.PromoTitle?.value?.toString() ?? ''}
-              </h2>
+              <h2 className="max-w-md">{props.fields.PromoTitle?.value?.toString() ?? ''}</h2>
             </div>
 
             <div className="flex max-w-md items-center">

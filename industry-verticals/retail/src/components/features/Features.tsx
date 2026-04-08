@@ -1,11 +1,6 @@
 import { generateIndexes } from '@/helpers/generateIndexes';
 import { IGQLTextField } from '@/types/igql';
-import {
-  ComponentParams,
-  ComponentRendering,
-  Image,
-  Link,
-} from '@sitecore-content-sdk/nextjs';
+import { ComponentParams, ComponentRendering, Image, Link } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
 import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { CommonStyles } from '@/types/styleFlags';
@@ -73,9 +68,7 @@ export const Default = (props: FeaturesProps) => {
             return (
               <div className="flex flex-col" key={index}>
                 {/* Title, Link and Description */}
-                <div className="mb-5 text-2xl font-bold">
-                  {title?.value?.toString() ?? ''}
-                </div>
+                <div className="mb-5 text-2xl font-bold">{title?.value?.toString() ?? ''}</div>
                 <div className="text-foreground mb-3.5 flex-auto leading-7">
                   {description?.value?.toString() ?? ''}
                 </div>
@@ -200,7 +193,7 @@ export const FourColGrid = (props: FeaturesProps) => {
               </div>
               {/* Title and Description */}
               <div className="flex flex-col justify-center">
-                <div className="text-xl leading-9 font-bold text-foreground">
+                <div className="text-foreground text-xl leading-9 font-bold">
                   {title?.value?.toString() ?? ''}
                 </div>
                 <div className="text-background-muted-light leading-8">
