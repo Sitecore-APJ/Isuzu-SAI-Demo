@@ -1,0 +1,42 @@
+﻿---
+ID: "bd2d854d-26fe-4e25-80ec-e7099c3b08dd"
+Parent: "b86a1b6c-c131-42ce-afcf-d7fef4a543f5"
+Template: "4d2b49e6-1130-444a-b22c-5c7e25d01b56"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/D-Max Offers"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{723BE860-7600-4321-B082-844AF26D6E33}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T043949Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "D-Max Offers"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb39da25-9bf6-492a-aafd-400ea1ef5b44"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T043949Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: "D-Max Offers"

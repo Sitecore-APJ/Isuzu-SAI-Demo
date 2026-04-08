@@ -1,0 +1,71 @@
+﻿---
+ID: "6e74f6fd-fedf-4413-8966-0e90042a6078"
+Parent: "e7c79805-d260-4840-aae5-8c33feac50fc"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/MU-X Offers/MU-X Terrain"
+SharedFields:
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="118e0c3f-6253-4b97-97b9-f63dc6b5bda3" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{26074A85-B08D-42C5-9A25-5EA0319F5195}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{C149396C-15D7-4710-9256-EFAF980DF1EA}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4b3d1505-ffd1-4a88-b255-c9aa4108c7d0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T122108Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: |
+         5 Years Flat Price Servicing>
+         6 Year Warranty^
+         7 Years Roadside Assistance<
+        
+        Key Features
+        3.0L Isuzu Turbo-Diesel Engine
+        9" Display w/ Apple CarPlay®/Android Auto™, Voice Recognition & Sat Nav
+        20" Gloss Black Alloy Wheels
+        Heated Front Leather Accented Seats§ w/ Red Stitching
+        
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 76000
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "MU-X Terrain"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c93fb0c7-40ac-4c02-9ce1-03f2bba80009"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: "25.5MY MU-X 4X4 X-TERRAIN "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T122907Z

@@ -25,14 +25,14 @@ SharedFields:
     <image mediaid="5866f5ed-4a53-492e-ac7e-e2207c967c61" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: "-50"
+  Value: 87
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{DDA99E04-29F7-49E3-BA48-57BD813A3D7B}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "8b6155c2-d2c2-4672-9244-07f1f8afc059"
+  Value: "1fc9942a-f56a-4dec-8ac0-895b4ebf74fe"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -87,7 +87,7 @@ Languages:
       Value: 20250911T094732Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: "The Heart of the Room: Fireplace"
+      Value: RFDS and Isuzu UTE Australia partnership
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -106,21 +106,20 @@ Languages:
         Isuzu UTE Australia (IUA) is proud to announce it has renewed its Major National Partnership with the Royal Flying Doctor Service (RFDS).
         
         This significant collaboration, which began in 2023, has successfully delivered improved healthcare outcomes in some of Australia’s most remote locations through financial support and the provision of a fleet of Isuzu D-MAX and MU-X vehicles.
-        Add text
         
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "edceb126-d70b-4279-9c2b-e4b6255a52cd"
+      Value: "4c2f226b-0d2f-4835-aa43-3b2bf48c3cc1"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "RFDS and Isuzu UTE Australia renew significant national partnership!"
+      Value: RFDS and Isuzu UTE Australia renew significant national partnership
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\mick.wingert@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260401T045824Z
+      Value: 20260407T100305Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "The Heart of the Room: Fireplace & Lounge | Forma Lux Journal – Handmade Design with Warmth & Craft"

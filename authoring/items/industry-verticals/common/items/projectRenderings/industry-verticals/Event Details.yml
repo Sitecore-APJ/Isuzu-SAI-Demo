@@ -6,7 +6,7 @@ Path: "/sitecore/layout/Renderings/Project/industry-verticals/Event Details"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Event Details
+  Value: EventDetails
 - ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: |
@@ -30,7 +30,7 @@ SharedFields:
   Value: "query:$site/*[@@name='Data']/*[@@templatename='Article Details Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Article Details Folder']"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "25b0cf1b-3eaa-42be-aec9-e5aa9650f098"
+  Value: "93d90df5-75d7-4c19-910d-762dd0eb86b2"
 - ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true
@@ -80,7 +80,7 @@ Languages:
     Fields:
     - ID: "1b58d065-fe74-43e3-ba20-54c9588b3011"
       Hint: AllowedOnTemplates
-      Value: "{412BF445-B1A6-4AFF-8054-0B21A1FEBC47}"
+      Value: "{1370328B-6793-45EA-8AF7-5C0CCC2712CE}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20211012T120931Z
@@ -90,14 +90,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a7763968-00cc-47e3-ba73-e599a94eba19"
+      Value: "3a9054ff-394f-4a53-b9b7-9da05c9009c3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260401T005209Z
+      Value: 20260408T002050Z
 - Language: "ja-JP"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

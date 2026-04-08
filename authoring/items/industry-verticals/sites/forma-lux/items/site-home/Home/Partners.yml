@@ -1,0 +1,78 @@
+﻿---
+ID: "3a1c6bb5-f86b-44f7-a3bd-e0e4bbc87504"
+Parent: "4e869961-efef-4b47-bb69-170a251d689b"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Partners"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {98E60957-0783-4A9A-85CC-77DAD30E9711}
+    {AF8D50B8-792E-4622-B605-F1E434A7CAB7}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8E8AD297-D2BF-43DF-8256-B16C9B7A6E1A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9b698fa3-6c55-494b-b565-1ecbac22619f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FEED8963-1532-4A66-9431-0A3690AD224D}"
+              p:before="*"
+              s:ds="local:/Data/Text 2"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B1D6FE21F-201B-46CF-9C5F-D73998E99F39%7D%7C%7BB706790E-8CB2-4A93-B341-6E7171734B61%7D%7C%7BB7B9EA19-356B-4FC1-80E8-3956CC8A5F2B%7D&amp;FieldNames=%7BA201C5FD-C17D-4A33-AAC6-E9EA4C973F3D%7D&amp;Styles=%7C%7B11343061-70CC-4066-AB3B-E2EEE2A7E3D4%7D%7C%7B833C53AA-A11A-4F7C-972C-A859505FBAC4%7D%7C%7BB8F669C4-5BCA-4194-86E5-E81B26A07E57%7D%7C%7BD6694EC2-5606-4337-89A2-19B14D3497C9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{1EB867C3-1987-46E3-8EFF-0A1AE5C35632}"
+              p:after="*[1=2]"
+              s:id="{66B804D4-B6B6-4342-987F-AC4987D6F900}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7C%7BD6694EC2-5606-4337-89A2-19B14D3497C9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260405T065028Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Partners
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Partners
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb74ad20-a2fa-4ebb-b926-5998653f4201"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260405T120422Z

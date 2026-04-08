@@ -25,14 +25,14 @@ SharedFields:
     <image mediaid="fd241d21-9e1f-42c3-961d-cec217442000" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 50
+  Value: 91
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{E65E4578-2747-482C-B25A-E1C1CF6760EF}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "008d3f46-0da6-464d-bd7c-b861baafcdd4"
+  Value: "075bbc03-b8b1-4824-b00b-9cd83db53497"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -77,7 +77,7 @@ Languages:
       Value: 20250917T090300Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Handmade pieces that took time to make
+      Value: Strategic Partnership Between Isuzu UTE and Football Australia
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -85,7 +85,7 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><figure class="image"><img style="aspect-ratio:1162/670;" src="https://cdn-iua.dataweavers.io/-/media/discover/news/2026/football-australia-partnership/football-australia-partnership_internal-1.jpg?rev=e1427657f0fa44ee8c01b6fc251ad78b" width="1162" height="670" /></figure><p>&nbsp;</p><p>Football Australia will work closely with Isuzu UTE and its Australia-wide dealer network on promotional opportunities, digital content and community engagement activations.</p><p>The partnership will hero Isuzu UTE Australia’s vehicles nationally and provide a platform and experience opportunities to showcase their vehicles in authentic and innovative ways, focusing on promotion of the Isuzu D-MAX and MU-X.</p><p>Isuzu UTE Australia’s support comes as the CommBank Matildas and CommBank Socceroos each approach major tournaments in 2026, with the CommBank Matildas competing in the AFC Women’s Asian Cup Australia 2026™ and the CommBank Socceroos preparing for the FIFA World Cup 2026™.</p><p>The three-year partnership is an extension of Isuzu UTE Australia’s continued investment in football, with the automotive brand a leading partner of the A-Leagues for over four years. As part of the partnership, Isuzu UTE will remain a partner of the A-League Men and Women.</p></div>
+        <div class="ck-content"><figure class="image image_resized image-style-align-left" style="width:57.91%;"><img style="aspect-ratio:1162/670;" src="https://cdn-iua.dataweavers.io/-/media/discover/news/2026/football-australia-partnership/football-australia-partnership_internal-1.jpg?rev=e1427657f0fa44ee8c01b6fc251ad78b" width="1162" height="670" /></figure><p>Football Australia will work closely with Isuzu UTE and its Australia-wide dealer network on promotional opportunities, digital content and community engagement activations.</p><p>The partnership will hero Isuzu UTE Australia’s vehicles nationally and provide a platform and experience opportunities to showcase their vehicles in authentic and innovative ways, focusing on promotion of the Isuzu D-MAX and MU-X.</p><p>Isuzu UTE Australia’s support comes as the CommBank Matildas and CommBank Socceroos each approach major tournaments in 2026, with the CommBank Matildas competing in the AFC Women’s Asian Cup Australia 2026™ and the CommBank Socceroos preparing for the FIFA World Cup 2026™.</p><p>The three-year partnership is an extension of Isuzu UTE Australia’s continued investment in football, with the automotive brand a leading partner of the A-Leagues for over four years. As part of the partnership, Isuzu UTE will remain a partner of the A-League Men and Women.</p></div>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -102,7 +102,7 @@ Languages:
       Value: Explore how patience and precision define Handmade Pieces That Took Time to Make. Forma Lux celebrates slow design—crafted furniture and home décor where every curve, texture, and finish reflects human touch.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1d2afc8-d58d-4a2e-bad8-682bf90e71db"
+      Value: "cbce5443-d002-4fd8-aa93-6694ff6f2f33"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: Isuzu UTE Australia Shifts Into Gear As Official Automotive Partner of Football Australia
@@ -112,7 +112,7 @@ Languages:
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260331T073540Z
+      Value: 20260407T101124Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Handmade Pieces That Took Time to Make | Forma Lux Journal – The Beauty of Patience in Design

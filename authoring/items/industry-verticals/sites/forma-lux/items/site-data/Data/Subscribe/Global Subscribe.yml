@@ -27,17 +27,17 @@ Languages:
         sitecore\ranula.gamage@sitecore.com
     - ID: "73961b41-7cfe-4909-9593-1a695e998e38"
       Hint: Title
-      Value: Subscribe to get attractive offers on our products
+      Value: Subscribe for Isuzu UTE's latest info on news, promotions and special offers.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c122940b-3f51-42d4-8aa1-2ae989238546"
+      Value: "42d605a3-af07-4960-abf9-54a6ecffdc41"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250910T093959Z
+      Value: 20260406T004824Z
 - Language: "es-ES"
   Versions:
   - Version: 1

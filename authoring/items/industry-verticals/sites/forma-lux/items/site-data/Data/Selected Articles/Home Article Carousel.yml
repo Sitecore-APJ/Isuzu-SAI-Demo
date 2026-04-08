@@ -7,16 +7,16 @@ SharedFields:
 - ID: "9097fa39-7bba-4e25-92f0-0b25d187509d"
   Hint: ExploreLink
   Value: |
-    <link linktype="internal" id="e9a6e6f8-3dd6-4664-a6e0-1923816f94c6" anchor="" querystring="" target="" class="" text="Explorez plus" title=""/>
+    <link linktype="internal" id="e9a6e6f8-3dd6-4664-a6e0-1923816f94c6" anchor="" querystring="" target="" class="" text="Read More" title=""/>
 - ID: "a6a4a7d3-4017-4996-9264-27b1d3030273"
   Hint: Articles
   Value: |
     {AEEF3A7C-6F36-4D86-8629-4EA57A0C7656}
     {BAA0704B-C6B1-41FC-9FC5-01C79FF5DDC4}
-    {53DFD979-E868-4B4F-BB9E-366626D11E69}
+    {7FC54D3B-DEF2-456A-BA4E-0931B165785F}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1b584b05-c168-4809-88d5-d30ae0acf415"
+  Value: "6667a3ad-1e99-49d5-971d-1d85751d7005"
 Languages:
 - Language: en
   Versions:
@@ -44,14 +44,14 @@ Languages:
       Value: Latest News & Stories
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc430f09-3bc4-4899-a370-9f76cfe0c3a8"
+      Value: "4ed71723-9598-40ae-93ba-d3a7d2fd3172"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260331T041645Z
+      Value: 20260407T102941Z
 - Language: "es-ES"
   Versions:
   - Version: 1

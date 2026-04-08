@@ -12,6 +12,9 @@ SharedFields:
     {76F9B02F-ADCD-4C45-A5DA-5047CF157D5E}
     {4D01F6A1-9FBE-4D57-8C03-08CADA0704EA}
     {79317D2A-7BB5-4B53-808E-7E4E465399FD}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8cbe2709-c2b0-4d61-8b02-542349873ecd"
 Languages:
 - Language: en
   Versions:
@@ -40,14 +43,14 @@ Languages:
         <link linktype="external" url="" target="" text="View All" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "727a0f92-d427-4fe5-a325-a6c393c9195d"
+      Value: "1ec4e087-f9a3-42ee-881f-7b1531bef14a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251201T113826Z
+      Value: 20260407T010534Z
 - Language: "es-ES"
   Versions:
   - Version: 1

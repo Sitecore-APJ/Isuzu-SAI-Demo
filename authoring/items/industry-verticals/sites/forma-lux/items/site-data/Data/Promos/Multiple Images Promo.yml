@@ -14,10 +14,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/5088bfb43f814f57bd15548a6f7b38c5?v=ea9d86c1" dam-id="O9R-vEgER8GZHbOh0UNb7g" width="2500" height="1667" alt="Rectangle 1447.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/67106/thumbnail" />
+    <image mediaid="8dd2efd8-29d8-40ed-a36e-cc532e2bf868" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c3def143-d48d-4354-87a5-00440f08721a"
+  Value: "b2487953-8f8e-44ca-997e-e0a823e26204"
 Languages:
 - Language: en
   Versions:
@@ -50,14 +50,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "deeb65fc-fc2d-461d-8bd0-d934a34cd485"
+      Value: "bba3cb67-5218-408e-a710-6e2d6690661a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260331T072335Z
+      Value: 20260405T124054Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: Get the most out of your Isuzu

@@ -7,42 +7,42 @@ SharedFields:
 - ID: "2aacd5cd-fc77-4b96-9bc0-ae4991115ca6"
   Hint: Image9
   Value: |
-    <image mediaid="7d75a66f-75ed-4f9c-91b4-466d672d824c" />
+    <image mediaid="b527907d-7116-4434-a985-23fe461951df" />
 - ID: "41d4803f-ca8f-47db-835d-5e947e1ed558"
   Hint: Image2
   Value: |
-    <image mediaid="fa1af53e-eda4-475e-9a31-5a1dd2614392" />
+    <image mediaid="53ad7336-c0a7-4ba2-8d5e-5aaf75946993" />
 - ID: "5e0aa7e5-78d0-4ead-88fe-bebe282b9005"
   Hint: Image8
   Value: |
-    <image mediaid="49d6cb2d-f90d-49a7-8814-57974dd26e64" />
+    <image mediaid="793fae20-2ee3-4136-b035-752c0aa4a7ee" />
 - ID: "825b569b-b2c0-4bd6-8677-12b0f36e470f"
   Hint: Image4
   Value: |
-    <image mediaid="c126a904-b251-47dd-82a4-54d4dab57e52" />
+    <image mediaid="57d71e5f-5e1c-40d5-8987-6802ed4eda9a" />
 - ID: "9477b449-c25a-4228-98d8-ae3435ab19b1"
   Hint: Image7
   Value: |
-    <image mediaid="b6993de4-1862-462f-aa51-f361e111a24c" />
+    <image mediaid="d11ead43-e672-4230-836d-b331ccf8362d" />
 - ID: "9c11a6a4-e9b5-4f36-9a65-65fad7daf14b"
   Hint: Image6
   Value: |
-    <image mediaid="1bf33b92-1866-4fe6-bb63-3632d9d2ae38" />
+    <image mediaid="cf42f19e-9560-4820-8abf-d595922d34db" />
 - ID: "b6adc497-e361-47ce-a977-88c6531ad798"
   Hint: Image3
   Value: |
-    <image mediaid="6e826746-6f7a-4806-90eb-0258149d7bfa" />
+    <image mediaid="aff78fce-23f2-4aa1-8896-74747fef5fce" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "4822b777-dff3-4838-9a7e-851a7690b58d"
+  Value: "5be1d974-578d-4683-a89c-238e56eb7bd3"
 - ID: "f63f1078-d0c6-45f6-a237-c3a588f495bd"
   Hint: Image1
   Value: |
-    <image mediaid="071d3e1b-bf20-4198-a7cf-5519ebba944a" />
+    <image mediaid="5ac050dd-33d7-461b-b491-b4de40866f0d" />
 - ID: "f771cbc7-e4db-4232-ba17-4400c11a1625"
   Hint: Image5
   Value: |
-    <image mediaid="b29c1b70-e31d-465c-bf57-41781a98699a" />
+    <image mediaid="d983bc28-c7e4-4108-87f0-892f88fa1501" />
 Languages:
 - Language: en
   Versions:
@@ -56,7 +56,7 @@ Languages:
       Value: 20250916T071650Z
     - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
       Hint: Heading
-      Value: #FormaLuxDécor
+      Value: #GoYourOwnWay
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -67,17 +67,17 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b40ff895-0ca0-40a3-9418-6592cb1b26f7"
+      Value: "1f487c0b-173d-4051-b381-295f60952666"
     - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
       Hint: Eyebrow
-      Value: Share your own setup with
+      Value: ISUZU UTE AUSTRALIA
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeffrey.isham@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250930T092415Z
+      Value: 20260407T235551Z
 - Language: "es-ES"
   Versions:
   - Version: 1

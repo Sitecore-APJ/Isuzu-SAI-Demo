@@ -1,0 +1,60 @@
+﻿---
+ID: "fa562e41-c5db-4400-8ac4-b7c6a076c0a9"
+Parent: "e968a297-39f9-464a-981a-d8a9b9f19796"
+Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/My First Event"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{865DB22D-E30F-4F9A-ADAE-A2EA6717D26A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260401T064555Z
+    - ID: "2af3221e-d392-4ff1-a757-425f206ca121"
+      Hint: VehiclesPerTrip
+      Value: 12
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: My First Event
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "7d7d219e-f9d2-4dc0-8b6c-f70f68ed8f3c"
+      Hint: EventStartDate
+      Value: 20260410T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c55ef973-f4b8-4640-a40f-f5455e09b370"
+    - ID: "94772aeb-62dc-478f-9b93-3bb1d69cf0fc"
+      Hint: EventEndDate
+      Value: 20260412T000000Z
+    - ID: "ad410835-8c75-4179-bfe5-722ebe6bde5c"
+      Hint: Title
+      Value: My First Event
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260408T023025Z
+    - ID: "ea659317-54e0-46cc-ba70-92f89644f88d"
+      Hint: CostPerVehicle
+      Value: 450
+    - ID: "fbaeae3a-19cb-49b7-8926-9d3582a54e5a"
+      Hint: EventSummary
+      Value: "Isuzu UTE Australia would like to invite you to join us for an exclusive towing training course being held on the 19th, 20th and 21st of June 2026. This course will teach you the fundamental skills required to tow safely, and confidently. Whether you're an experienced tow truck operator or first time caravanner, this course is designed to provide you with the comprehensive knowledge and hands-on training you need. Our team of seasoned professionals will guide you through essential techniques, safety protocols, and towing strategies to give you the solid foundations of towing, all in a safe, controlled training environment."

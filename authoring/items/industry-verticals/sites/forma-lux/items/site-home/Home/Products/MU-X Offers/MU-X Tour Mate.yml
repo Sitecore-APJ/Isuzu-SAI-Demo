@@ -1,0 +1,72 @@
+﻿---
+ID: "6f553765-763c-4ae0-9dd8-b9f46e02bd53"
+Parent: "e7c79805-d260-4840-aae5-8c33feac50fc"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/MU-X Offers/MU-X Tour Mate"
+SharedFields:
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="5bb897dc-37eb-4d6c-9e19-1bf33b2398be" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F51DF985-63D6-4F8D-BAE4-B4F1B70B7976}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{C149396C-15D7-4710-9256-EFAF980DF1EA}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6533acda-86bd-47f0-8499-6ef023da6791"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T121142Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: |
+         5 Years Flat Price Servicing>
+         6 Year Warranty^
+         7 Years Roadside Assistance<
+        
+        Key Features
+        3.0L Isuzu Turbo-Diesel Engine
+        20" Two-Tone Alloy Wheels
+        9" Display w/ Apple CarPlay®/Android Auto™, Voice Recognition & Sat Nav
+        Heated Front Leather Accented Seats§
+        Plus Great Value TOUR MATE Accessories Package
+        
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 80000
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "MU-X Tour Mate"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa1c20b0-b048-4221-970d-501c3bcabb7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: "25.5MY MU-X 4x4 TOUR MATE LS-T"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T121641Z

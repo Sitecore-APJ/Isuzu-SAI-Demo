@@ -1,0 +1,81 @@
+﻿---
+ID: "4fbd9b21-8c36-4a93-b1bd-3bf0d0293a89"
+Parent: "bd2d854d-26fe-4e25-80ec-e7099c3b08dd"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/D-Max Offers/D-MAX BLADE"
+SharedFields:
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="7eed00ec-dde6-46c0-a5fb-52964e48f70d" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{87D1602B-96AB-407C-9A8C-A40F08AF98E2}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{DDF486CD-7AC8-4E75-BD0F-5697648922D8}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "29842a6a-d590-43ea-96b3-734426e04ad2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d04c2dc1-92ed-41f0-ad1b-5da991be042f"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "D-MAX BLADE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T044205Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: |
+         5 Years Flat Price Servicing
+         6 Year Warranty
+         7 Years Roadside Assistance
+        
+        Key Features
+        3.0L Isuzu Turbo-Diesel Engine
+        Upgraded Suspension
+        17" Alloy Wheels & All-Terrain Tyres
+        
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 79000
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "25_5MY D-MAX 4_4 BLADE AUTO"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e03ac47c-65ca-45eb-bcdc-178867f56979"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: "25.5MY D-MAX 4x4 BLADE AUTO"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T065218Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>THE ISUZU<br />D-MAX BLADE</p><p><br />Specially developed for Australian conditions, the D-MAX BLADE provides the perfect balance of driving performance and ultimate comfort no matter how challenging the terrain. The D-MAX BLADE is our most capable D-MAX yet. Featuring wider wheels and tyres, upgraded suspension, contrasting fender flares, a bold new grille, plus much more. Every adventure is made better with the Isuzu D-MAX BLADE.</p></div>

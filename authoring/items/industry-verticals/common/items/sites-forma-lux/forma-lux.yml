@@ -31,7 +31,7 @@ SharedFields:
   Value: "{54F89E61-6008-4130-B6D9-3F4C5FDC447B}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
-  Value: Forma Lux
+  Value: Isuzu Ute
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0
@@ -40,7 +40,7 @@ SharedFields:
   Value: "<image mediaid='60f2fa17-d633-4703-a65f-28ad007a26bb' />"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b8858bfb-c9c0-4818-b9a8-c1681a8f9419"
+  Value: "4a4ce613-bac8-49b9-98a6-fcad0c5782b9"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -65,14 +65,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed27f6cb-2736-4e62-a03e-6bcf41348391"
+      Value: "d0c7903e-bff2-4f1d-b27c-8890dcddcc45"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260331T003716Z
+      Value: 20260407T001704Z
 - Language: "es-ES"
   Versions:
   - Version: 1

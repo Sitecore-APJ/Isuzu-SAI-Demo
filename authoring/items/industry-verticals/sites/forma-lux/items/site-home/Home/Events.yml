@@ -1,22 +1,19 @@
 ﻿---
-ID: "21225748-3075-4525-9cfa-c80659f75a87"
+ID: "e968a297-39f9-464a-981a-d8a9b9f19796"
 Parent: "4e869961-efef-4b47-bb69-170a251d689b"
-Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
 Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
-  Value: 
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 200
+  Value: "{1370328B-6793-45EA-8AF7-5C0CCC2712CE}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4F21CC5D-B67C-496D-9270-75776470DE68}" />
+    <image mediaid="{5258064C-BE09-4DAB-BCA3-1EE0074BB669}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "bdd5ee2f-3a48-4bbb-85d5-ac1680f4ebc0"
+  Value: "886dbb81-be3b-4e4e-8702-7a2e3db3de21"
 Languages:
 - Language: en
   Versions:
@@ -33,7 +30,7 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{628EC355-3FD6-4339-81EA-E2178BE053C7}"
+              uid="{0C5262E1-0E33-4226-B37E-B4AFAD097017}"
               s:id="{66B804D4-B6B6-4342-987F-AC4987D6F900}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
@@ -41,28 +38,28 @@ Languages:
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20260331T233816Z
+      Value: 20260401T064534Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: events2
+      Value: Events
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Events
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\mehmet.vanli@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\mehmet.vanli@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "689acebc-cefc-4463-8d5d-359402090c6b"
-    - ID: "ad410835-8c75-4179-bfe5-722ebe6bde5c"
-      Hint: Title
-      Value: Events
+      Value: "fe333d30-66db-47c8-b665-b666f5c47712"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\mick.wingert@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260401T032426Z
+      Value: 20260401T104159Z

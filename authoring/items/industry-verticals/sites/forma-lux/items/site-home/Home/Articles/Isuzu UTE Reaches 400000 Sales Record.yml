@@ -1,0 +1,75 @@
+﻿---
+ID: "7fc54d3b-def2-456a-ba4e-0931b165785f"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Isuzu UTE Reaches 400000 Sales Record"
+SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{EB1D93E4-2CAB-439C-9578-358D0A59FDE6}"
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20260304T000000Z
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="9292df02-4e50-4a68-9ad1-e34f02a675d4" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 93
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C0DB3002-7156-47E2-A21B-39C22AF716A5}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0dcd25ec-c89b-4d13-844f-2ff57bdcab5b"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "42215574-9ed3-4734-9bf7-22aa14f2329a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Isuzu UTE Reaches 400000 Sales Record
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260407T100551Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Isuzu UTE Reaches 400,000 Sales Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>For the past 17 years, IUA has forged a reputation for capability, durability, and value for money, proactively fostering local feedback to evolve to the demands of arguably the world’s most competitive automotive market. “This incredible new milestone of 400,000 deliveries is testament, yet again, to the depth of trust in our brand among Australian consumers,” says IUA Managing Director, Mr Junta Matsui. “It’s a continuation of Isuzu UTE’s surge through the ranks of Australia’s best-selling automotive brands – one which has seen us finish in the Top 10 for vehicle sales every year since 2023.”</p><p>“This landmark result is deeply humbling, and a reflection of our commitment to helping Australians to make the most of this incredible country, whether they’re at work or going their own way on the weekend. We are grateful to every single customer that has chosen a D-MAX or MU-X over the last 17 years, as well as to our entire Isuzu UTE family. From the 19 dealers that have been with us from the start, to our ever-growing Australia-wide Dealer Network, your loyalty, professionalism, and commitment is the foundation of our success.”</p><p>With current strong sales momentum, including 2025 YTD sales driven by the introduction of the face-lifted MU-X in March, and the all-new 2.2L, eight-speed models in October, IUA is proud to remain the largest global export market for D-MAX and MU-X. It now sets its sights on a bold new challenge: half a million Australian deliveries.</p><p>IUA’s accomplishments have significantly contributed to Isuzu’s worldwide success, with Isuzu Motors International Operations (Thailand) Co.,Ltd., the global export hub for Isuzu’s Light Commercial Vehicles, celebrating the major global achievement of shipping its 3 millionth Light Commercial Vehicle – including all of Australia’s D-MAX and MU-X deliveries – in August 2025.<br /><br />Fittingly, that 3 millionth vehicle was also prepared for international shipment – it being yet another IUA vehicle destined for Australia. To learn more about the Isuzu range, visit the D-MAX and MU-X pages.</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "Isuzu UTE Australia (IUA) recorded a major Australian milestone in December with its 400,000th local vehicle delivery – another sign of the enduring popularity of the Japanese marque’s two-model lineup. Over 280,000 D-MAX utes and close to 120,000 seven-seat MU-X SUVs have found their way into Australian driveways since 2008, with more than 50,000 sales in just the past 14 months alone."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44067504-8614-457f-b93b-fc251e281aa2"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Isuzu UTE Reaches 400,000 Sales Record
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260407T102839Z

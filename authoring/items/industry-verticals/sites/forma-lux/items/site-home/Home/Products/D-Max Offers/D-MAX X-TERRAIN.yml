@@ -1,0 +1,71 @@
+﻿---
+ID: "92424bb8-0e3c-45a9-8bf1-7501fce3ad15"
+Parent: "bd2d854d-26fe-4e25-80ec-e7099c3b08dd"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/D-Max Offers/D-MAX X-TERRAIN"
+SharedFields:
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="6db4f53c-c13d-4cf2-91ee-9b8c7f97b777" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B614C0A3-32D2-48B2-BB39-C354461A2A5A}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{DDF486CD-7AC8-4E75-BD0F-5697648922D8}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d1055244-acb2-46ef-b51b-f856286c4f0c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260407T225913Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: |
+         5 Years Flat Price Servicing>
+         6 Year Warranty^
+         7 Years Roadside Assistance<
+        
+        Key Features
+        3.0L Isuzu Turbo-Diesel Engine
+        9" Display w/ Apple CarPlay®/Android Auto™, Voice Recognition & Sat Nav
+        18” Alloy Wheels, Fog Lights & Side Steps
+        Heated Front Leather Accented Seats§ w/ Red Stitching
+        
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 70000
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "D-MAX X-TERRAIN"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95e455af-89e8-455f-89eb-75635a47d278"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: "25.5MY D-MAX 4X4 X-TERRAIN CREW CAB UTE AUTO"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260407T230351Z

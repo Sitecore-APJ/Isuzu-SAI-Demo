@@ -1,0 +1,72 @@
+﻿---
+ID: "a7a1ac4e-93b0-4a95-849b-796aad6be8ef"
+Parent: "bd2d854d-26fe-4e25-80ec-e7099c3b08dd"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/D-Max Offers/D-MAX TOUR"
+SharedFields:
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="f45e5f55-4fa3-40e5-b3d7-50d112d77eb9" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7A4B1542-282B-4433-B6ED-9ABE33AF17A5}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{DDF486CD-7AC8-4E75-BD0F-5697648922D8}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a880acbd-b3e4-4dd2-af9d-3c35658a2001"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260407T013127Z
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: |
+         5 Years Flat Price Servicing>
+         6 Year Warranty^
+         7 Years Roadside Assistance<
+        
+        Key Features
+        3.0L Isuzu Turbo-Diesel Engine
+        18" Two-Tone Alloy Wheels
+        9" Display w/ Apple CarPlay®/Android Auto™, Voice Recognition & Sat Nav
+        Smart Keyless Entry & Push Button Start
+        Plus Great Value TOUR MATE Accessories Package 
+        
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 73000
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "D-MAX TOUR"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e44121a-3af4-4bbe-adee-2e99d4247723"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: "25.5MY D-MAX 4x4 TOUR MATE LS-U"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260407T013240Z
