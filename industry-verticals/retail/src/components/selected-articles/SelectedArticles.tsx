@@ -7,8 +7,6 @@ import {
   Link as ContentSskLink,
   RichTextField,
   NextImage as ContentSdkImage,
-  RichText as ContentSdkRichText,
-  Text,
 } from '@sitecore-content-sdk/nextjs';
 import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { Swiper, SwiperClass, SwiperSlide } from 'swiper/react';
@@ -82,13 +80,16 @@ export const Default = (props: CarouselProps) => {
         >
           <div className="w-full space-y-5 md:w-1/3">
             <h2 className="inline-block max-w-md">
-              <Text field={props.fields.Title} />
+              {props.fields?.Title?.value?.toString() ?? ''}
               {!hideAccentLine && <AccentLine className="w-full max-w-xs" />}
             </h2>
 
-            <div className="max-w-md">
-              <ContentSdkRichText field={props.fields.Description} />
-            </div>
+            <div
+              className="max-w-md"
+              dangerouslySetInnerHTML={{
+                __html: props.fields.Description?.value?.toString() ?? '',
+              }}
+            />
 
             <ContentSskLink field={props.fields.ExploreLink} className="arrow-btn" />
           </div>
@@ -137,15 +138,13 @@ export const Default = (props: CarouselProps) => {
                                       <div className="flex items-center gap-1 overflow-hidden text-xs font-extralight text-ellipsis whitespace-nowrap">
                                         <div className="h-[1px] w-7 bg-black"></div>
                                         <div className="text-foreground/75">
-                                          <Text
-                                            editable={false}
-                                            field={article.fields?.Category?.fields?.Category}
-                                          />
+                                          {article.fields?.Category?.fields?.Category?.value?.toString() ??
+                                            ''}
                                         </div>
                                       </div>
                                       <div>
                                         <h6 className="line-clamp-2 max-w-full overflow-hidden wrap-anywhere text-ellipsis">
-                                          <Text editable={false} field={article.fields?.Title} />
+                                          {article.fields?.Title?.value?.toString() ?? ''}
                                         </h6>
                                       </div>
                                     </div>

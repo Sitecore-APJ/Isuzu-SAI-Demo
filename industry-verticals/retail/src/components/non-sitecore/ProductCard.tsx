@@ -1,4 +1,4 @@
-import { NextImage as ContentSdkImage, Text } from '@sitecore-content-sdk/nextjs';
+import { NextImage as ContentSdkImage } from '@sitecore-content-sdk/nextjs';
 import StarRating from './StarRating';
 import Link from 'next/link';
 import { Product } from '@/types/products';
@@ -13,10 +13,10 @@ interface ProductCardProps {
 }
 
 export const ProductCard = ({ product, url, className }: ProductCardProps) => {
-  const { currencySymbol } = useLocale();
+  const { currencySymbol, code: siteLocale } = useLocale();
   const formattedPrice =
     product.Price?.value && !isNaN(product.Price?.value)
-      ? product.Price.value.toLocaleString(undefined, {
+      ? product.Price.value.toLocaleString(siteLocale, {
           minimumFractionDigits: 0,
           maximumFractionDigits: 2,
         })
@@ -39,11 +39,11 @@ export const ProductCard = ({ product, url, className }: ProductCardProps) => {
         {/* Product Details */}
         <div className="bg-background flex grow-1 flex-col items-start px-5 pt-3 pb-9 text-left">
           <p className="!text-foreground-light">
-            <Text field={product.Category?.fields?.CategoryName} />
+            {product.Category?.fields?.CategoryName?.value?.toString() ?? ''}
           </p>
 
           <h6 className="!text-foreground mt-1 line-clamp-2 font-semibold">
-            <Text field={product.Title} />
+            {product.Title?.value?.toString() ?? ''}
           </h6>
 
           <StarRating
