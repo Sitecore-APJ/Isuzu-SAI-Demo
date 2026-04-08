@@ -5,7 +5,6 @@ import {
   ComponentRendering,
   Image,
   Link,
-  Text,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
 import AccentLine from '@/assets/icons/accent-line/AccentLine';
@@ -62,7 +61,7 @@ export const Default = (props: FeaturesProps) => {
       <div className="container grid grid-cols-1 py-20 lg:grid-cols-[1fr_2fr] lg:gap-10">
         <div className="mb-20 lg:mb-0">
           <h2 className="inline-block max-w-md font-bold max-lg:text-[42px]">
-            <Text field={featureSectionTitle.jsonValue} />
+            {featureSectionTitle.jsonValue?.value?.toString() ?? ''}
             {!hideAccentLine && <AccentLine className="w-full max-w-xs" />}
           </h2>
         </div>
@@ -75,10 +74,10 @@ export const Default = (props: FeaturesProps) => {
               <div className="flex flex-col" key={index}>
                 {/* Title, Link and Description */}
                 <div className="mb-5 text-2xl font-bold">
-                  <Text field={title} />
+                  {title?.value?.toString() ?? ''}
                 </div>
                 <div className="text-foreground mb-3.5 flex-auto leading-7">
-                  <Text field={description} />
+                  {description?.value?.toString() ?? ''}
                 </div>
                 <div>
                   <Link field={link} className="arrow-btn" />
@@ -132,10 +131,10 @@ export const ThreeColGridCentered = (props: FeaturesProps) => {
               {/* Title and Description */}
               <div className="flex flex-col items-center justify-center">
                 <div className="mb-2 leading-0.5">
-                  <Text tag="h5" className="text-accent" field={title} />
+                  <h5 className="text-accent">{title?.value?.toString() ?? ''}</h5>
                 </div>
                 <div className="text-background-muted-light text-center">
-                  <Text field={description} />
+                  {description?.value?.toString() ?? ''}
                 </div>
               </div>
             </div>
@@ -168,10 +167,10 @@ export const NumberedGrid = (props: FeaturesProps) => {
               {/* Title and Description */}
               <div>
                 <div className="text-accent group-hover:text-background mb-4 text-2xl leading-8 font-bold">
-                  <Text field={title} />
+                  {title?.value?.toString() ?? ''}
                 </div>
                 <div className="text-background-muted-dark group-hover:text-background leading-7">
-                  <Text field={description} />
+                  {description?.value?.toString() ?? ''}
                 </div>
               </div>
             </div>
@@ -201,11 +200,11 @@ export const FourColGrid = (props: FeaturesProps) => {
               </div>
               {/* Title and Description */}
               <div className="flex flex-col justify-center">
-                <div className="text-xl leading-9 font-bold">
-                  <Text className="text-foreground" field={title} />
+                <div className="text-xl leading-9 font-bold text-foreground">
+                  {title?.value?.toString() ?? ''}
                 </div>
                 <div className="text-background-muted-light leading-8">
-                  <Text field={description} />
+                  {description?.value?.toString() ?? ''}
                 </div>
               </div>
             </div>
@@ -232,12 +231,10 @@ export const ImageCardGrid = (props: FeaturesProps) => {
                 <Image field={image} className="h-full w-full object-cover" />
               </div>
 
-              <h6>
-                <Text field={title} />
-              </h6>
+              <h6>{title?.value?.toString() ?? ''}</h6>
 
               <p className="text-foreground-muted mt-1 text-lg">
-                <Text field={description} />
+                {description?.value?.toString() ?? ''}
               </p>
             </div>
           );

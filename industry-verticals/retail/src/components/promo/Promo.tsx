@@ -7,7 +7,6 @@ import {
   Link,
   LinkField,
   RichTextField,
-  Text,
 } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
 import clsx from 'clsx';
@@ -45,11 +44,11 @@ export const PromoContent = ({ ...props }) => {
   return (
     <div className="space-y-5">
       <div className="eyebrow">
-        <Text field={props.fields.PromoSubTitle} />
+        {props.fields.PromoSubTitle?.value?.toString() ?? ''}
       </div>
 
       <h2 className="inline-block max-w-md">
-        <Text field={props.fields.PromoTitle} />
+        {props.fields.PromoTitle?.value?.toString() ?? ''}
         {isAccentLineVisible && <AccentLine className="w-full max-w-xs" />}
       </h2>
 
@@ -198,13 +197,13 @@ export const WithFullImage = (props: PromoProps): JSX.Element => {
 
         <div className="space-y-5">
           <div className="text-foreground-light font-semibold uppercase">
-            <Text field={props.fields.PromoSubTitle} />
+            {props.fields.PromoSubTitle?.value?.toString() ?? ''}
           </div>
 
           <div className="grid-col-1 grid gap-5 md:grid-cols-2">
             <div className="font-bold">
               <h2 className="max-w-md">
-                <Text field={props.fields.PromoTitle} />
+                {props.fields.PromoTitle?.value?.toString() ?? ''}
               </h2>
             </div>
 

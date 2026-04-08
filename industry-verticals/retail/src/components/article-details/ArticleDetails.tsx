@@ -81,15 +81,32 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
 
             <div className="col-span-12 mt-8 lg:col-span-8 lg:col-start-3">
               <h2>
-                <ContentSdkText field={fields.Title} />
+                {isPageEditing ? (
+                  <ContentSdkText tag="span" field={fields.Title} />
+                ) : (
+                  (fields.Title?.value?.toString() ?? '')
+                )}
               </h2>
 
               <p className="text-foreground-muted mt-5 text-lg font-medium tracking-wide">
-                <ContentSdkText field={fields.ShortDescription} />
+                {isPageEditing ? (
+                  <ContentSdkText tag="span" field={fields.ShortDescription} />
+                ) : (
+                  (fields.ShortDescription?.value?.toString() ?? '')
+                )}
               </p>
 
               <div className="rich-text mt-10 text-lg">
-                <ContentSdkRichText field={fields.Content} />
+                {isPageEditing ? (
+                  <ContentSdkRichText field={fields.Content} />
+                ) : (
+                  <div
+                    className="ck-content"
+                    dangerouslySetInnerHTML={{
+                      __html: fields.Content?.value?.toString() ?? '',
+                    }}
+                  />
+                )}
               </div>
             </div>
 

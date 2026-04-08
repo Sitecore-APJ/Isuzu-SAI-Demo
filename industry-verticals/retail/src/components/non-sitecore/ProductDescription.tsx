@@ -19,13 +19,26 @@ export const ProductDescription = ({ product }: ProductDescriptionProps) => {
 
   return (
     <>
-      <h1 className="pt-3 text-4xl font-bold lg:pt-0">
-        <ContentSdkText field={product.Title} />
-      </h1>
+      {isPageEditing ? (
+        <ContentSdkText
+          tag="h1"
+          className="pt-3 text-4xl font-bold lg:pt-0"
+          field={product.Title}
+        />
+      ) : (
+        <h1 className="pt-3 text-4xl font-bold lg:pt-0">
+          {product.Title?.value?.toString() ?? ''}
+        </h1>
+      )}
 
       {(product?.Price?.value || isPageEditing) && (
         <p className="text-xl">
-          {currency} <ContentSdkText field={product.Price} />
+          {currency}{' '}
+          {isPageEditing ? (
+            <ContentSdkText tag="span" field={product.Price} />
+          ) : (
+            (product.Price?.value?.toString() ?? '')
+          )}
         </p>
       )}
 
@@ -40,11 +53,18 @@ export const ProductDescription = ({ product }: ProductDescriptionProps) => {
         </div>
       )}
 
-      {(product?.ShortDescription?.value || isPageEditing) && (
-        <p className="text-foreground text-lg">
-          <ContentSdkText field={product.ShortDescription} />
-        </p>
-      )}
+      {(product?.ShortDescription?.value || isPageEditing) &&
+        (isPageEditing ? (
+          <ContentSdkText
+            tag="p"
+            className="text-foreground text-lg"
+            field={product.ShortDescription}
+          />
+        ) : (
+          <p className="text-foreground text-lg">
+            {product.ShortDescription?.value?.toString() ?? ''}
+          </p>
+        ))}
     </>
   );
 };

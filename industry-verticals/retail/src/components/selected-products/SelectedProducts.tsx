@@ -1,6 +1,6 @@
 import React, { JSX } from 'react';
 import { ComponentProps } from '@/lib/component-props';
-import { Text, Field, LinkField, Link } from '@sitecore-content-sdk/nextjs';
+import { Field, LinkField, Link } from '@sitecore-content-sdk/nextjs';
 import { isParamEnabled } from '@/helpers/isParamEnabled';
 import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import ProductCarousel from '../non-sitecore/ProductCarousel';
@@ -28,7 +28,7 @@ export const Default = (props: RelatedProductsProps): JSX.Element => {
     <section className={`component related-products ${styles}`} id={id || undefined}>
       <div className="container flex flex-col items-center p-8 md:p-10">
         <h2 className="mb-10 inline-block">
-          <Text field={props.fields?.Title} />
+          {props.fields?.Title?.value?.toString() ?? ''}
           {!hideAccentLine && <AccentLine className="mx-auto !h-4 w-[8ch]" />}
         </h2>
 

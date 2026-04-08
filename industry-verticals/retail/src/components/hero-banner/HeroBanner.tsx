@@ -41,7 +41,7 @@ const HeroBannerCommon = ({
   if (!fields) {
     return isPageEditing ? (
       <div className={`component hero-banner ${styles}`} id={id}>
-        [HERO BANNER]
+        <div className="component-content">[HERO BANNER]</div>
       </div>
     ) : (
       <></>
@@ -78,12 +78,16 @@ const HeroBannerCommon = ({
         )}
       </div>
 
-      {children}
+      <div className="relative z-10 w-full min-w-0">
+        <div className="component-content">{children}</div>
+      </div>
     </div>
   );
 };
 
 export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
+  const { page } = useSitecore();
+  const isPageEditing = page.mode.isEditing;
   const styles = params.styles || '';
   const hideAccentLine = styles.includes(CommonStyles.HideAccentLine);
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
@@ -103,17 +107,30 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
               <div className={clsx({ shim: screenLayer })}>
                 {/* Title */}
                 <h1 className="text-center text-5xl leading-[110%] font-bold capitalize md:text-7xl md:leading-[130%] lg:text-left xl:text-[80px]">
-                  <ContentSdkText field={fields.Title} />
+                  {isPageEditing ? (
+                    <ContentSdkText tag="span" field={fields.Title} />
+                  ) : (
+                    (fields.Title?.value?.toString() ?? '')
+                  )}
                   {!hideAccentLine && <AccentLine className="mx-auto !h-5 w-[9ch] lg:mx-0" />}
                 </h1>
 
                 {/* Description */}
-                <div className="mt-7 text-xl md:text-2xl">
-                  <ContentSdkRichText
-                    field={fields.Description}
-                    className="text-center lg:text-left"
+                {isPageEditing ? (
+                  <div className="mt-7 text-xl md:text-2xl">
+                    <ContentSdkRichText
+                      field={fields.Description}
+                      className="text-center lg:text-left"
+                    />
+                  </div>
+                ) : (
+                  <div
+                    className="ck-content mt-7 text-center text-xl md:text-2xl lg:text-left"
+                    dangerouslySetInnerHTML={{
+                      __html: fields.Description?.value?.toString() ?? '',
+                    }}
                   />
-                </div>
+                )}
 
                 {/* CTA Link or Placeholder */}
                 <div className="mt-6 flex w-full justify-center lg:justify-start">
@@ -133,6 +150,8 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
 };
 
 export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
+  const { page } = useSitecore();
+  const isPageEditing = page.mode.isEditing;
   const styles = params.styles || '';
   const hideAccentLine = styles.includes(CommonStyles.HideAccentLine);
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
@@ -151,14 +170,27 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
             <div className={clsx({ shim: screenLayer })}>
               {/* Title */}
               <h1 className="text-center text-5xl leading-[110%] font-bold capitalize md:text-7xl md:leading-[130%] xl:text-[80px]">
-                <ContentSdkText field={fields.Title} />
+                {isPageEditing ? (
+                  <ContentSdkText tag="span" field={fields.Title} />
+                ) : (
+                  (fields.Title?.value?.toString() ?? '')
+                )}
                 {!hideAccentLine && <AccentLine className="mx-auto !h-5 w-[9ch]" />}
               </h1>
 
               {/* Description */}
-              <div className="mt-7 text-xl md:text-2xl">
-                <ContentSdkRichText field={fields.Description} className="text-center" />
-              </div>
+              {isPageEditing ? (
+                <div className="mt-7 text-xl md:text-2xl">
+                  <ContentSdkRichText field={fields.Description} className="text-center" />
+                </div>
+              ) : (
+                <div
+                  className="ck-content mt-7 text-center text-xl md:text-2xl"
+                  dangerouslySetInnerHTML={{
+                    __html: fields.Description?.value?.toString() ?? '',
+                  }}
+                />
+              )}
 
               {/* CTA Link or Placeholder */}
               <div className="mt-6 flex w-full justify-center">

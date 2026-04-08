@@ -6,9 +6,7 @@ import {
   Link,
   LinkField,
   Placeholder,
-  RichText,
   RichTextField,
-  Text,
   TextField,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
@@ -46,59 +44,73 @@ export const Default = (props: FooterProps) => {
   const sections = [
     {
       key: 'first_nav',
-      title: <Text field={props.fields.TitleOne} />,
+      title: props.fields.TitleOne?.value?.toString() ?? '',
       content: <Placeholder name={phKeyOne} rendering={props.rendering} />,
     },
     {
       key: 'second_nav',
-      title: <Text field={props.fields.TitleTwo} />,
+      title: props.fields.TitleTwo?.value?.toString() ?? '',
       content: <Placeholder name={phKeyTwo} rendering={props.rendering} />,
     },
     {
       key: 'third_nav',
-      title: <Text field={props.fields.TitleThree} />,
+      title: props.fields.TitleThree?.value?.toString() ?? '',
       content: <Placeholder name={phKeyThree} rendering={props.rendering} />,
     },
     {
       key: 'fourth_nav',
-      title: <Text field={props.fields.TitleFour} />,
+      title: props.fields.TitleFour?.value?.toString() ?? '',
       content: <Placeholder name={phKeyFour} rendering={props.rendering} />,
     },
     {
       key: 'fifth_nav',
-      title: <Text field={props.fields.TitleFive} />,
+      title: props.fields.TitleFive?.value?.toString() ?? '',
       content: <Placeholder name={phKeyFive} rendering={props.rendering} />,
     },
   ];
 
   return (
-    <section className={`component footer relative ${props.params.styles} overflow-hidden`} id={id}>
-      <div className="bg-background-muted">
+    <section
+      className={`component footer relative ${props.params.styles} overflow-hidden bg-neutral-800 text-white [&_a]:text-white [&_a:hover]:text-neutral-200`}
+      id={id}
+    >
+      <div>
         <div className="container grid gap-12 py-28.5 lg:grid-cols-[1fr_3fr]">
-          <div className="flex flex-col gap-7">
+          <div className="flex flex-col gap-7 [&_p]:text-white">
             <div className="sm:max-w-34">
               <Image field={props.fields.Logo} />
             </div>
-            <RichText field={props.fields.Description} />
+            <div
+              className="[&_a]:text-white"
+              dangerouslySetInnerHTML={{
+                __html: props.fields.Description?.value?.toString() ?? '',
+              }}
+            />
           </div>
           <div className="grid gap-13 sm:grid-cols-3 lg:grid-cols-5 lg:gap-5 xl:gap-12">
             {sections.map(({ key, title, content }) => (
               <div key={key}>
-                <div className="text-accent mb-8 text-lg font-bold">{title}</div>
-                <div className="space-y-4">{content}</div>
+                <div className="mb-8 text-lg font-bold text-white">{title}</div>
+                <div className="space-y-4 text-white [&_a]:text-white">{content}</div>
               </div>
             ))}
           </div>
         </div>
       </div>
-      <div className="bg-background">
+      <div>
         <div className="container flex items-center justify-between py-8.5 max-sm:flex-col max-sm:items-start max-sm:gap-10">
-          <div className="max-sm:order-2">
-            <Text field={props.fields.CopyrightText} />
+          <div className="max-sm:order-2 text-white">
+            {props.fields.CopyrightText?.value?.toString() ?? ''}
           </div>
           <div className="flex items-center justify-between gap-20 max-lg:gap-10 max-sm:order-1 max-sm:flex-col max-sm:items-start max-sm:gap-5">
-            <Link field={props.fields.TermsText} className="hover:underline" />
-            <Link field={props.fields.PolicyText} className="hover:underline" />
+            <Link
+              field={props.fields.TermsText}
+              className="text-white hover:underline hover:text-neutral-200"
+            />
+            <Link
+              field={props.fields.PolicyText}
+              className="text-white hover:underline hover:text-neutral-200"
+            />
           </div>
         </div>
       </div>
