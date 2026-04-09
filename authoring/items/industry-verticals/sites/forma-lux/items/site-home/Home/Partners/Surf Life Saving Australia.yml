@@ -46,11 +46,15 @@ Languages:
       Value: Isuzu UTE Australia Pledges Another Three Years To Safeguarding Australian Beaches With Surf Life Saving Australia
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5d24ec6-e7de-40b1-a0a2-ec0c418df895"
+      Value: "f6b1cc74-e5d7-4e02-9ff3-5976ec72b78a"
+    - ID: "b3f4f3c3-7a84-4060-b967-32af8e606d82"
+      Hint: Image
+      Value: |
+        <Image src="https://almu-cars-clone1.sitecoresandbox.cloud/api/public/content/c9d68ba76d9e451594c0399c166cb322?v=cb8e3821" dam-id="TZ0EAPWpSZqEjAIJp4t5Ug" alt="slsa-landing-page_mobile.jpg" dam-content-type="Image" thumbnailsrc="https://almu-cars-clone1.sitecoresandbox.cloud/api/gateway/73383/thumbnail" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\mehmet.vanli@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260409T024554Z
+      Value: 20260409T082335Z
