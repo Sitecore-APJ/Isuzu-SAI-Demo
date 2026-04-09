@@ -56,6 +56,7 @@ import * as Breadcrumb from 'src/components/breadcrumb/Breadcrumb';
 import * as ArticleListing from 'src/components/article-listing/ArticleListing';
 import * as ArticleDetails from 'src/components/article-details/ArticleDetails';
 import * as AllProductsCarousel from 'src/components/all-products-carousel/AllProductsCarousel';
+import * as EventListing from 'src/components/event-listing/EventListing';
 
 export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['BYOCWrapper', BYOCWrapper],
@@ -113,6 +114,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ArticleListing', { ...ArticleListing }],
   ['ArticleDetails', { ...ArticleDetails }],
   ['AllProductsCarousel', { ...AllProductsCarousel }],
+  ['EventListing', { ...EventListing }],
 ]);
 
 export default componentMap;

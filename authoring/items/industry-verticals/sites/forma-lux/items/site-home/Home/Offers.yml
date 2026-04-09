@@ -150,17 +150,17 @@ Languages:
       Value: Offers
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
-      Value: Contact us
+      Value: Offers
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2cf7c3f-e15a-4a79-9a9a-765fbe7423bb"
+      Value: "5c5cd707-9f5b-41b8-88a4-2b2f8f3ed6ab"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T121037Z
+      Value: 20260409T042053Z
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
