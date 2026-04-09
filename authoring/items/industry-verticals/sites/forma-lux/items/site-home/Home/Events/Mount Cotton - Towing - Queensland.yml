@@ -1,0 +1,74 @@
+﻿---
+ID: "348fff85-4e06-4abc-8777-274160a729ce"
+Parent: "e968a297-39f9-464a-981a-d8a9b9f19796"
+Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/Mount Cotton - Towing - Queensland"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{448F5477-6158-4834-A504-08ABDB8537FF}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "19b1e501-250a-47df-895c-418acae602c1"
+      Hint: HeaderImage
+      Value: |
+        <Image src="https://almu-cars-clone1.sitecoresandbox.cloud/api/public/content/db8ef3e59f71439f93f1583e3030e8b2?v=3cb1549b" dam-id="zFisAF7JRUWcuyGGlcodEQ" alt="qld-towing-banner_desktop.jpg" dam-content-type="Image" thumbnailsrc="https://almu-cars-clone1.sitecoresandbox.cloud/api/gateway/73243/thumbnail" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260409T071657Z
+    - ID: "2af3221e-d392-4ff1-a757-425f206ca121"
+      Hint: VehiclesPerTrip
+      Value: 16
+    - ID: "47ce3424-003a-4a2d-bda8-e1a05b007c18"
+      Hint: EventRegistrationLink
+      Value: |
+        <link linktype="external" url="https://isuzuute.eventsair.com/i-venture-club-qld-towing-june-2026/register/Site/Register" target="" text="BOOK NOW" title="" class=""/>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Mount Cotton - Towing - Queensland"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "7a35f230-aa7e-4527-9e53-6ccdc09862ab"
+      Hint: EventStatus
+      Value: Open
+    - ID: "7d7d219e-f9d2-4dc0-8b6c-f70f68ed8f3c"
+      Hint: EventStartDate
+      Value: 20260619T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46dafe2b-6ff8-4b35-85e7-c88eb36f6ca4"
+    - ID: "8f1030bb-80e4-41c8-8c9b-b148e00102e1"
+      Hint: EventRegistrationId
+      Value: 113
+    - ID: "94772aeb-62dc-478f-9b93-3bb1d69cf0fc"
+      Hint: EventEndDate
+      Value: 20260621T000000Z
+    - ID: "ad410835-8c75-4179-bfe5-722ebe6bde5c"
+      Hint: Title
+      Value: "Mount Cotton - Towing - Queensland"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260409T072629Z
+    - ID: "ea659317-54e0-46cc-ba70-92f89644f88d"
+      Hint: CostPerVehicle
+      Value: 450
+    - ID: "fbaeae3a-19cb-49b7-8926-9d3582a54e5a"
+      Hint: EventSummary
+      Value: "Isuzu UTE Australia would like to invite you to join us for an exclusive towing training course being held on the 19th, 20th and 21st of June 2026. This course will teach you the fundamental skills required to tow safely, and confidently. Whether you're an experienced tow truck operator or first time caravanner, this course is designed to provide you with the comprehensive knowledge and hands-on training you need. Our team of seasoned professionals will guide you through essential techniques, safety protocols, and towing strategies to give you the solid foundations of towing, all in a safe, controlled training environment."

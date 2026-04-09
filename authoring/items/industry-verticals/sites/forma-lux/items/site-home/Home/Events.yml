@@ -30,8 +30,14 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{D933BF3A-8F43-43B1-928E-58825FFCE278}"
+              uid="{66007FF8-0BA1-4D4F-B801-894DB6258815}"
               p:before="*"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+            <r
+              uid="{D933BF3A-8F43-43B1-928E-58825FFCE278}"
+              p:after="r[@uid='{66007FF8-0BA1-4D4F-B801-894DB6258815}']"
               s:id="{65A0CE44-5999-4261-8606-C54131D7C6BF}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="headless-main" />
@@ -44,11 +50,17 @@ Languages:
               s:ph="headless-main" />
             <r
               uid="{8AEF50F0-0303-4600-924F-3D41543BC0B3}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{F363C021-11EA-46A7-B15A-DD12D96EA871}']"
               s:ds="dd5b76ec-0579-454d-a42e-61bdc82f7746"
               s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B4091EF1F-FB38-4E84-8776-076441E040BF%7D&amp;Styles=%7C%7BEDD2EAB8-1CFC-4EA7-BCCE-A91E0747742A%7D%7C%7B6D4F66C4-8BA6-4733-8019-B4914C5643FF%7D%7C%7B3193A7EB-6465-49CA-A53B-7579C294924A%7D%7C%7BF0287895-D69D-4A5F-9EA4-4238A54C05FF%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
               s:ph="headless-main" />
+            <r
+              uid="{4F62FD8D-25E0-478D-B111-595CBC7941C6}"
+              p:after="*[1=2]"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B17437A73-D072-4574-8A49-360932DA0893%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-5" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -70,11 +82,11 @@ Languages:
         sitecore\mick.wingert@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b5419692-aa2a-443c-bcf9-7e12495a4352"
+      Value: "e470ad1e-5171-4a72-9540-3cca847ac05d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260409T063746Z
+      Value: 20260409T070659Z
