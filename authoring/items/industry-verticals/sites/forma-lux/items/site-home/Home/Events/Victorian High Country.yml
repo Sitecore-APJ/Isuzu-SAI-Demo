@@ -1,0 +1,70 @@
+﻿---
+ID: "f385d328-0558-46fe-a62f-81ce7737707a"
+Parent: "e968a297-39f9-464a-981a-d8a9b9f19796"
+Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/Victorian High Country"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{46508300-2163-4E32-A8D9-09ED291E731A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "19b1e501-250a-47df-895c-418acae602c1"
+      Hint: HeaderImage
+      Value: |
+        <Image src="https://almu-cars-clone1.sitecoresandbox.cloud/api/public/content/db3eaa6a8a2944e6916c7136fb5dac5f?v=5200703f" dam-id="tTBVc2-TRf-GvDFR19WjEA" width="3840" height="1000" alt="header-banner_2x.jpg" dam-content-type="Image" thumbnailsrc="https://almu-cars-clone1.sitecoresandbox.cloud/api/gateway/73212/thumbnail" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260409T062345Z
+    - ID: "2af3221e-d392-4ff1-a757-425f206ca121"
+      Hint: VehiclesPerTrip
+      Value: 12
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Victorian High Country
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "7a35f230-aa7e-4527-9e53-6ccdc09862ab"
+      Hint: EventStatus
+      Value: Closed
+    - ID: "7d7d219e-f9d2-4dc0-8b6c-f70f68ed8f3c"
+      Hint: EventStartDate
+      Value: 20260619T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20b58f46-48cb-4222-85b9-023cf0e1bd5a"
+    - ID: "8f1030bb-80e4-41c8-8c9b-b148e00102e1"
+      Hint: EventRegistrationId
+      Value: 112
+    - ID: "94772aeb-62dc-478f-9b93-3bb1d69cf0fc"
+      Hint: EventEndDate
+      Value: 20260619T000000Z
+    - ID: "ad410835-8c75-4179-bfe5-722ebe6bde5c"
+      Hint: Title
+      Value: Victorian High Country
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260409T062921Z
+    - ID: "ea659317-54e0-46cc-ba70-92f89644f88d"
+      Hint: CostPerVehicle
+      Value: 300
+    - ID: "fbaeae3a-19cb-49b7-8926-9d3582a54e5a"
+      Hint: EventSummary
+      Value: "Gear up for an unforgettable day in the rugged Victorian High Country (Mt Terrible Track to Newman’s Track) on offer for 25th, 26th, 27th and 28th March! This adventure welcomes all Isuzu 4x4 owners, giving you the chance to gain a better understanding of your vehicles capabilities while taking on rocky terrain and steep gradients."

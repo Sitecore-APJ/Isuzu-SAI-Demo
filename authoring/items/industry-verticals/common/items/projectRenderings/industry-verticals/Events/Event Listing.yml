@@ -1,0 +1,58 @@
+﻿---
+ID: "65a0ce44-5999-4261-8606-c54131d7c6bf"
+Parent: "5dd14272-c90a-464b-a900-5c1ea1bfd54f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/industry-verticals/Events/Event Listing"
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: EventListing
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {F5C3D9B2-0A4E-4F2D-9F7B-6C8E5D3B2A1F}
+    {A6D4E0C3-1B5F-4A3E-8A3C-7D9F6E4C3B2A}
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/list_style_bullets.png
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 0
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{337B3ECC-CD8E-4D23-BC43-13395AD3ADA7}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{207769CC-38C0-4DE1-B893-A6B037B3AEC4}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0162a4ef-56c6-4146-b08d-8b2796345475"
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
+  Hint: OtherProperties
+  Value: IsRenderingsWithDynamicPlaceholders=true
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260409T061635Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80174ef4-402a-461d-ba90-758011f3a7d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260409T061704Z

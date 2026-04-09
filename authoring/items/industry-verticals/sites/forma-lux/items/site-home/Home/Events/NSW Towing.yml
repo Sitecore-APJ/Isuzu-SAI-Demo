@@ -2,7 +2,7 @@
 ID: "fa562e41-c5db-4400-8ac4-b7c6a076c0a9"
 Parent: "e968a297-39f9-464a-981a-d8a9b9f19796"
 Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/My First Event"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/NSW Towing"
 SharedFields:
 - ID: "8946f5fa-4a00-4dc9-8fc5-c7031bd31d50"
   Hint: ogImage
@@ -16,6 +16,13 @@ SharedFields:
   Value: "4d7a763d-bf0d-4071-b083-0e8e40a07696"
 Languages:
 - Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "3a25e8eb-7394-417f-88d1-fa6be6d9f075"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: NSW Towing
   Versions:
   - Version: 1
     Fields:
@@ -38,7 +45,7 @@ Languages:
         <link linktype="external" url="http://www.eventdetails.com" target="" text="BOOK NOW" title="" class=""/>
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: My First Event
+      Value: NSW Towing
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -47,12 +54,15 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\mick.wingert@sitecore.com
+    - ID: "7a35f230-aa7e-4527-9e53-6ccdc09862ab"
+      Hint: EventStatus
+      Value: Open
     - ID: "7d7d219e-f9d2-4dc0-8b6c-f70f68ed8f3c"
       Hint: EventStartDate
       Value: 20260410T000000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "66b69096-24fb-46ad-b583-f12a026bc955"
+      Value: "744ed7a0-9f35-4abb-afd5-7ff0af48bcb8"
     - ID: "8f1030bb-80e4-41c8-8c9b-b148e00102e1"
       Hint: EventRegistrationId
       Value: 111
@@ -65,10 +75,10 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\mick.wingert@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260409T034639Z
+      Value: 20260409T063928Z
     - ID: "ea659317-54e0-46cc-ba70-92f89644f88d"
       Hint: CostPerVehicle
       Value: 450

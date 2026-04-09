@@ -1,0 +1,50 @@
+﻿---
+ID: "dd5b76ec-0579-454d-a42e-61bdc82f7746"
+Parent: "de4b4f36-ac24-4acc-aea1-e83efee4f158"
+Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
+Path: "/sitecore/content/industry-verticals/forma-lux/Data/Promos/Events/Intimate Online Training"
+SharedFields:
+- ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
+  Hint: PromoImageOne
+  Value: |
+    <Image src="https://almu-cars-clone1.sitecoresandbox.cloud/api/public/content/a1b639c4b6934c65b7ffa9db808da134?v=53dfd8bd" dam-id="Wj56exAXTAStco-0E0E7RA" width="1680" height="1000" alt="upcoming---online-events---iua_image_text-block_2x.jpg" dam-content-type="Image" thumbnailsrc="https://almu-cars-clone1.sitecoresandbox.cloud/api/gateway/73228/thumbnail" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "07686793-7ec1-47a6-869d-6c57ce8ccebc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260409T063110Z
+    - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
+      Hint: PromoMoreInfo
+      Value: |
+        <link linktype="internal" id="4e869961-efef-4b47-bb69-170a251d689b" anchor="" querystring="" target="" class="" text="SEE UPCOMING EVENTS" title=""/>
+    - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
+      Hint: PromoDescription
+      Value: |
+        <div class="ck-content"><h3>INTIMATE ONLINE TRAINING</h3><p>Join a small interactive group led by a qualified 4x4 and towing instructor who will teach you the skills you need to tow safely or to handle the toughest terrain in your Isuzu D-MAX or MU-X.</p><p>The online training is open to all Isuzu D-MAX &amp; MU-X owners, with the event fee covering two people.&nbsp;</p></div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "501efab3-8189-4eee-a075-2458e1b63143"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260409T063814Z
