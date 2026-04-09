@@ -1,9 +1,4 @@
-import type {
-  Field,
-  ImageField,
-  LinkField,
-  RichTextField,
-} from '@sitecore-content-sdk/nextjs';
+import type { Field, ImageField, LinkField, RichTextField } from '@sitecore-content-sdk/nextjs';
 
 /** Mirrors `Fields` on `EventDetails` for list items returned by the integrated query. */
 export interface Event {
@@ -23,10 +18,7 @@ export interface Event {
   EventItineraryMedia: Field<{ src?: string; title?: string }>;
 }
 
-export const sortByEventStartDateDesc = (
-  a: { fields: Event },
-  b: { fields: Event }
-): number => {
+export const sortByEventStartDateDesc = (a: { fields: Event }, b: { fields: Event }): number => {
   const getTime = (item: { fields: Event }) =>
     new Date(item.fields.EventStartDate?.value || 0).getTime();
 
