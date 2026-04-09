@@ -1,8 +1,8 @@
 ﻿---
 ID: "11de8d97-8975-4999-b30d-930ffc3bba70"
-Parent: "4e869961-efef-4b47-bb69-170a251d689b"
+Parent: "a81a87d4-5e64-4b3a-ab9e-514ba3cef5e9"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/About Us"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Zzz_other/About Us"
 SharedFields:
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
   Hint: NavigationFilter

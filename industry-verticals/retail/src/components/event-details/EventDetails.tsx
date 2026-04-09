@@ -27,6 +27,7 @@ interface Fields {
   ShortDescription: Field<string>;
   Content: RichTextField;
   Image: ImageField;
+  HeaderImage: ImageField;
   EventRegistrationLink: LinkField;
   EventRegistrationId: Field<number>;
   VehiclesPerTrip: Field<number>;
@@ -117,6 +118,12 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
       </Head>
 
       <article className={`component article-details ${styles}`} id={id}>
+        <div className="w-full">
+          <div className="aspect-video w-full overflow-hidden">
+            <ContentSdkImage field={fields.HeaderImage} className="h-full w-full object-cover" />
+          </div>
+        </div>
+
         <div className="container">
           <div className="grid grid-cols-12 gap-4 py-11">
             {/* Social Share */}
@@ -129,11 +136,6 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
                 className="col-span-12 size-fit p-3 shadow-xl md:p-4 lg:col-span-1 lg:flex-col"
               />
             )}
-
-            <div className="col-span-12 aspect-video w-full overflow-hidden rounded-lg lg:col-span-10 lg:col-start-2">
-              <ContentSdkImage field={fields.Image} className="h-full w-full object-cover" />
-            </div>
-
             <div className="col-span-12 mt-8 text-center lg:col-span-8 lg:col-start-3">
               <h2>{hasTitleValue ? <ContentSdkText field={fields.Title} /> : 'Title'}</h2>
 

@@ -4,10 +4,16 @@ Parent: "e968a297-39f9-464a-981a-d8a9b9f19796"
 Template: "1370328b-6793-45ea-8af7-5c0ccc2712ce"
 Path: "/sitecore/content/industry-verticals/forma-lux/Home/Events/My First Event"
 SharedFields:
+- ID: "8946f5fa-4a00-4dc9-8fc5-c7031bd31d50"
+  Hint: ogImage
+  Value: 
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{865DB22D-E30F-4F9A-ADAE-A2EA6717D26A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4d7a763d-bf0d-4071-b083-0e8e40a07696"
 Languages:
 - Language: en
   Versions:
@@ -16,6 +22,10 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "19b1e501-250a-47df-895c-418acae602c1"
+      Hint: HeaderImage
+      Value: |
+        <Image src="https://almu-cars-clone1.sitecoresandbox.cloud/api/public/content/26e39d92cd3d4a878397271491146971?v=ea1baa96" dam-id="a2yoKqXFS9GbuIi-mmoLVA" width="1920" height="500" alt="header-banner.jpg" dam-content-type="Image" thumbnailsrc="https://almu-cars-clone1.sitecoresandbox.cloud/api/gateway/73196/thumbnail" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260401T064555Z
@@ -42,7 +52,7 @@ Languages:
       Value: 20260410T000000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "561712a5-a438-45ac-a5af-85349774064b"
+      Value: "66b69096-24fb-46ad-b583-f12a026bc955"
     - ID: "8f1030bb-80e4-41c8-8c9b-b148e00102e1"
       Hint: EventRegistrationId
       Value: 111
@@ -58,7 +68,7 @@ Languages:
         sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260409T020933Z
+      Value: 20260409T034639Z
     - ID: "ea659317-54e0-46cc-ba70-92f89644f88d"
       Hint: CostPerVehicle
       Value: 450
