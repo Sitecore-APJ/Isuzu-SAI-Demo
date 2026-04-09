@@ -158,16 +158,16 @@ SharedFields:
     --color-background-muted-light: #7a7a7a;
     --color-background-muted-dark: #666;
     --color-background-surface: #fafafa;
-    --color-accent: #c1a25f;
+    --color-accent: #1d1c1b;
     --color-success: #2ec1ac;
     --color-danger: #e97171;
     --color-border: #e8e8e8;
-    --font-heading: 'Manrope', sans-serif;
+    --font-heading: 'Poppins', sans-serif;
     --font-body: 'Manrope', sans-serif;
     --radius-base: 0.1rem;
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "39963f59-2f80-4177-b911-a82936c0f44c"
+  Value: "e6406ed4-1b8d-432c-a886-c42292faaa57"
 - ID: "f4f80dc4-7985-4bba-a11e-4daebba94481"
   Hint: ThemeDefaults
   Value: |
@@ -197,14 +197,14 @@ Languages:
       Value: 20251117T220631Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e36c64e-72fd-4086-9550-091005340ab3"
+      Value: "e2a46e95-ba14-4a1d-9851-175942f0a8a7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\AbL2GDZVGwj9JfTmMMSJvb8dMzbXdWa8
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T041045Z
+      Value: 20260408T092128Z
 - Language: "es-ES"
   Versions:
   - Version: 1

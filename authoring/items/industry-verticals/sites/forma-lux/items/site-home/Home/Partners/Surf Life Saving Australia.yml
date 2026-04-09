@@ -1,0 +1,56 @@
+﻿---
+ID: "d5fe69fa-ae5b-425c-9b59-fda0f8abced7"
+Parent: "3a1c6bb5-f86b-44f7-a3bd-e0e4bbc87504"
+Template: "af8d50b8-792e-4622-b605-f1e434a7cab7"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Partners/Surf Life Saving Australia"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{BB7590E9-DC9D-4966-A4B4-DA23DB185801}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "055f6332-6405-4fe5-a863-139ab8acf0b5"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Surf Life Saving Australia
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260407T001434Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Surf Life Saving Australia
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5c62a06e-f52b-4d69-ad2f-4e7c04b1c1eb"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>03 April 2024</p><p>As the longstanding national partnership between Isuzu UTE Australia (IUA) and Surf Life Saving Australia (SLSA) concludes its third year, Isuzu UTE Australia reaffirms its commitment to beach safety by extending their support for an additional three years.<br /><br /><img src="https://cdn-iua.dataweavers.io/-/media/discover/news/2024/slsa-partnership-renewal-2024/slsa-renewal-2024_internal-image-1.jpg?rev=6661c36b98f54d948af2cb155eb84ddd" width="686" height="377" /></p><p>Since joining forces in 2021, IUA has been a crucial ally in SLSA's mission to safeguard Australian beaches and their visitors, through providing significant annual contributions in addition to a fleet of ‘rescue-ready’ vehicles.</p><p>"Three years into our partnership, Surf Life Saving Australia's legacy of 117 years, continues to inspire us. We are honoured to extend our support for an additional three years, recognising the profound impact they've had on the community and the ongoing commitment to their vital mission," said Isuzu UTE Australia Managing Director, Junta Matsui.</p><p>"Embedded in the heart of local communities, the essence of SLSA lies in safeguarding Australian beaches and the people who frequent them. Isuzu UTE Australia is extremely proud to continue to support SLSA and the courageous individuals dedicated to beach safety through their patrols, training initiatives, and educational endeavours."</p><p>"We recognise the importance of providing SLSA with reliable and durable vehicles that can withstand the rigors of beach patrols," Matsui added. "The Isuzu D-MAX Ute and MU-X SUV have proven to be invaluable assets, and we are proud to continue supporting SLSA with these vehicles."</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "687bb428-bf28-40a0-b93f-571426a047d4"
+      Hint: Title
+      Value: Isuzu UTE Australia Pledges Another Three Years To Safeguarding Australian Beaches With Surf Life Saving Australia
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5d24ec6-e7de-40b1-a0a2-ec0c418df895"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260409T024554Z

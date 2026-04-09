@@ -1,8 +1,8 @@
 ﻿---
 ID: "ea0d13b1-0e92-4e4a-a2c6-dbc76a790be9"
-Parent: "af977a9b-c5e9-4195-aa90-00c05f900365"
+Parent: "a81a87d4-5e64-4b3a-ab9e-514ba3cef5e9"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Landing Pages/The Lumina Collection"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Zzz_other/The Lumina Collection"
 SharedFields:
 - ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
   Hint: ogImage

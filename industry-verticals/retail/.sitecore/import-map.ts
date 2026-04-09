@@ -84,7 +84,9 @@ import { useRouter as useRouter_0e8a928699f624a3ad05eb9c9906b0e7ce1a00be } from 
 import { Select as Select_4a7098778d43a9b4dcd5871ec48ea51b5a246850, SelectContent, SelectItem, SelectTrigger, SelectValue } from 'src/shadcn/components/ui/select';
 import { localeOptions } from '@/constants/localeOptions';
 import { generateIndexes } from '@/helpers/generateIndexes';
+import { getEventById } from '@/helpers/eventsDataService';
 import { formatAudWholeDollars, formatEventDateDisplay, parseNumericFieldValue } from 'src/components/event-details/formatEventDateRange';
+import { EventRegistration } from 'src/components/event-details/EventRegistration';
 import client from 'lib/sitecore-client';
 import * as FEAAS from '@sitecore-feaas/clientside/react';
 import nextConfig from 'next.config';
@@ -643,11 +645,23 @@ const importMap = [
     ]
   },
   {
+    module: '@/helpers/eventsDataService',
+    exports: [
+      { name: 'getEventById', value: getEventById },
+    ]
+  },
+  {
     module: 'src/components/event-details/formatEventDateRange',
     exports: [
       { name: 'formatAudWholeDollars', value: formatAudWholeDollars },
       { name: 'formatEventDateDisplay', value: formatEventDateDisplay },
       { name: 'parseNumericFieldValue', value: parseNumericFieldValue },
+    ]
+  },
+  {
+    module: 'src/components/event-details/EventRegistration',
+    exports: [
+      { name: 'EventRegistration', value: EventRegistration },
     ]
   },
   {

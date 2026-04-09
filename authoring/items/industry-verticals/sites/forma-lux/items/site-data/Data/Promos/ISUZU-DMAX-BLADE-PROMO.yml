@@ -4,25 +4,31 @@ Parent: "d7bee783-0ed9-4fb5-9cf2-6c7fef0b2f86"
 Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Promos/ISUZU-DMAX-BLADE-PROMO"
 SharedFields:
+- ID: "0d9bfa5d-ac4d-4dca-8477-78801227cf5c"
+  Hint: PromoImageTwo
+  Value: 
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
     <image mediaid="{7115CDF2-0342-4781-9539-F23B9CCEB39F}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9df72371-3ceb-4eb9-84d6-24ed603e97b0"
+  Value: "04528852-d829-4fb5-876a-548f3fd834a0"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20251128T084108Z
     - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
       Hint: PromoMoreInfo
       Value: |
-        <link text="Download the Brochure" linktype="external" url="https://cdn-iua.dataweavers.io/-/media/d-max-blade/documents/isuzu-d-max-blade-brochure.pdf?rev=3229dfddc4fe4bd9aafe9cde23b59bc6" anchor="" target="_blank" />
+        <link linktype="external" url="https://starter-verticals.sitecoresandbox.cloud/api/public/content/b25733266d2d4183a806a6731df1295c?v=78cd828a" target="" text="isuzu-d-max-blade-brochure.pdf" title="" class=""/>
     - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
       Hint: PromoDescription
       Value: |
@@ -44,14 +50,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4508efd2-c7f0-4173-b2da-566c460ec9ee"
+      Value: "0af00496-27aa-4391-8735-852f56f18013"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T013239Z
+      Value: 20260409T015015Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: "THE ISUZU D-MAX BLADE"

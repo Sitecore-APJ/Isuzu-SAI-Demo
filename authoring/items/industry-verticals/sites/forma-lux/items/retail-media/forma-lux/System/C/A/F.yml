@@ -1,13 +1,8 @@
 ﻿---
-ID: "d5fe69fa-ae5b-425c-9b59-fda0f8abced7"
-Parent: "3a1c6bb5-f86b-44f7-a3bd-e0e4bbc87504"
-Template: "af8d50b8-792e-4622-b605-f1e434a7cab7"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/Partners/Partner1"
-SharedFields:
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{BB7590E9-DC9D-4966-A4B4-DA23DB185801}" />
+ID: "cef7659e-6922-4083-9937-120b38208101"
+Parent: "e98d1c60-9102-459f-affb-315c35bcfdf0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/industry-verticals/forma-lux/System/C/A/F"
 Languages:
 - Language: en
   Versions:
@@ -15,10 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20260407T001434Z
-    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
-      Hint: NavigationTitle
-      Value: Partner1
+      Value: 20260408T065524Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -27,16 +19,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
-    - ID: "687bb428-bf28-40a0-b93f-571426a047d4"
-      Hint: Title
-      Value: Partner1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9c2741dd-cbc4-43ba-92c8-7cbc6ab4b354"
+      Value: "81f6373a-7974-4375-a1d2-2976d062734e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260407T001434Z
+      Value: 20260408T065524Z

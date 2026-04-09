@@ -100,7 +100,8 @@ Languages:
               s:ph="headless-main" />
             <r
               uid="{0E05C224-7F8C-4798-A61C-B5C09E1F9679}"
-              s:ds="258611fc-93af-4bd7-b1a8-9d68dbfe130e" />
+              s:ds="258611fc-93af-4bd7-b1a8-9d68dbfe130e"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B4091EF1F-FB38-4E84-8776-076441E040BF%7D&amp;Styles=%7C%7B3193A7EB-6465-49CA-A53B-7579C294924A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2" />
             <r
               uid="{64133AF0-0461-4B83-A746-7679B3873E28}"
               p:after="r[@uid='{0E05C224-7F8C-4798-A61C-B5C09E1F9679}']"
@@ -116,6 +117,19 @@ Languages:
               uid="{0A5ADA95-FD15-400C-B1F3-50AB9BBA2C2F}">
               <p:d />
             </r>
+            <r
+              uid="{D6C5F2E5-3E7F-4465-8150-DAA45840FA4D}"
+              p:after="r[@uid='{35680642-846B-47CC-BE17-D66E19560CEC}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA201C5FD-C17D-4A33-AAC6-E9EA4C973F3D%7D&amp;Styles=%7C%7B11343061-70CC-4066-AB3B-E2EEE2A7E3D4%7D%7C%7B833C53AA-A11A-4F7C-972C-A859505FBAC4%7D%7C%7BD6694EC2-5606-4337-89A2-19B14D3497C9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="headless-main" />
+            <r
+              uid="{2F342EB2-4AA7-4AAD-8C7C-1717F190C6BF}"
+              p:after="r[@uid='{D6C5F2E5-3E7F-4465-8150-DAA45840FA4D}']"
+              s:id="{62DD1639-9F28-4040-8738-C886480B2127}"
+              s:par="FormId=ee5579a03f40499090250377c055e1fe-aue&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main" />
             <r
               uid="{63C2F0E6-3A62-4B05-B08B-7775B0F08E94}"
               p:after="*[1=2]"
@@ -139,14 +153,14 @@ Languages:
       Value: Contact us
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a3ae1c71-3c31-4562-88c9-2658289387ce"
+      Value: "d2cf7c3f-e15a-4a79-9a9a-765fbe7423bb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260407T234506Z
+      Value: 20260408T121037Z
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

@@ -30,15 +30,7 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{12251E80-8981-47BA-A674-79BEDF75E47D}"
-              p:before="*"
-              s:ds="local:/Data/Text 1"
-              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA201C5FD-C17D-4A33-AAC6-E9EA4C973F3D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
-              s:ph="headless-main" />
-            <r
               uid="{00109F12-659E-4EF0-96EE-31D1FF24FF54}"
-              p:after="*[1=2]"
               s:id="{34D1BB7E-988B-4A98-9E04-538DA069B2CD}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;HideShareWidget&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="headless-main" />
@@ -57,11 +49,11 @@ Languages:
         sitecore\mehmet.vanli@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c33b7c08-0068-41e8-a16d-c89939781e75"
+      Value: "705cf70b-9d4a-4315-ab5a-10248a429fb1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T002131Z
+      Value: 20260409T015242Z

@@ -4,10 +4,16 @@ Parent: "af977a9b-c5e9-4195-aa90-00c05f900365"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
 Path: "/sitecore/content/industry-verticals/forma-lux/Home/Landing Pages/D-Max-Blade-Campaign"
 SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: 
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{B429D236-BC3D-4938-AE10-906D0DF88AEE}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "107ca8eb-da64-4df0-8967-7dbaa74ed9cb"
 Languages:
 - Language: en
   Versions:
@@ -88,10 +94,23 @@ Languages:
               s:ph="headless-main" />
             <r
               uid="{1F6DD3B8-6FCC-4FEF-A3A5-43B02ED72530}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{D7D7EC04-9D6C-4A3B-9111-E327724AADB6}']"
               s:ds="9171e278-cf33-4684-821b-cb53ed7e5b4d"
               s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B4091EF1F-FB38-4E84-8776-076441E040BF%7D&amp;Styles=%7C%7B3193A7EB-6465-49CA-A53B-7579C294924A%7D%7C%7B1D7E4033-FFD2-40D3-99EB-E0BE364BB74F%7D%7C%7BD6694EC2-5606-4337-89A2-19B14D3497C9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{1FD8588B-EB36-4801-865D-7D8EB8A6FA57}"
+              p:after="r[@uid='{1F6DD3B8-6FCC-4FEF-A3A5-43B02ED72530}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA201C5FD-C17D-4A33-AAC6-E9EA4C973F3D%7D&amp;Styles=%7C%7B11343061-70CC-4066-AB3B-E2EEE2A7E3D4%7D%7C%7B833C53AA-A11A-4F7C-972C-A859505FBAC4%7D%7C%7BD6694EC2-5606-4337-89A2-19B14D3497C9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+            <r
+              uid="{5AC49003-CD35-4BCB-A9D2-6BDB3BF4CE6A}"
+              p:after="*[1=2]"
+              s:id="{62DD1639-9F28-4040-8738-C886480B2127}"
+              s:par="FormId=ee5579a03f40499090250377c055e1fe-aue&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
               s:ph="headless-main" />
           </d>
         </r>
@@ -114,11 +133,14 @@ Languages:
         sitecore\mehmet.vanli@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ddbad1de-00e8-4260-b91c-146cdb4054dd"
+      Value: "3b52f145-17cb-490e-8abf-f87cc24dfe74"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260412T101600Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T040720Z
+      Value: 20260409T005841Z

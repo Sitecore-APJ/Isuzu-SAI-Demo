@@ -1,0 +1,53 @@
+{
+  "events": [
+    {
+      "id": 111,
+      "title": "Mount Cotton - Towing - Queensland",
+      "description": "Isuzu UTE Australia would like to invite you to join us for an exclusive towing training course being held on the 19th, 20th and 21st of June 2026. This course will teach you the fundamental skills required to tow safely, and confidently. Whether you're an experienced tow truck operator or first time caravanner, this course is designed to provide you with the comprehensive knowledge and hands-on training you need. Our team of seasoned professionals will guide you through essential techniques, safety protocols, and towing strategies to give you the solid foundations of towing, all in a safe, controlled training environment.",
+      "eventStatus": "Open",
+      "costPerVehicle": 450,
+      "eventStartDate": "2026-05-19",
+      "eventDays": [
+        {
+          "date": "2026-05-19",
+          "ticketsAvailable": 15,
+          "bookedTickets": 10,
+          "vehiclesPerTrip": 1
+        },
+        {
+          "date": "2026-05-20",
+          "ticketsAvailable": 15,
+          "bookedTickets": 8,
+          "vehiclesPerTrip": 1
+        },
+        {
+          "date": "2026-05-21",
+          "ticketsAvailable": 15,
+          "bookedTickets": 3,
+          "vehiclesPerTrip": 1
+        }
+      ],
+      "location": "Mount Cotton, Queensland",
+      "bookingLink": "https://www.example.com/event1"
+    },
+    {
+      "id": 112,
+      "title": "NSW Towing - New South Wales",
+      "description": "The New South Wales Towing event is a one day introductory training course held on the 5th, 6th & 7th of June. This course focuses on familiarising D-MAX and MU-X owners with the fundamentals of towing. Through the guidance of our qualified instructors, you will gain confidence hitching up and manoeuvring your caravan, boat or horse float in any situation.",
+      "eventStatus": "Open",
+      "costPerVehicle": 450,
+      "eventStartDate": "2026-06-19",
+      "eventDays": [
+        {
+          "date": "2026-06-19",
+          "ticketsAvailable": 15,
+          "bookedTickets": 10,
+          "vehiclesPerTrip": 1
+        }
+      ],
+      "location": "The H.A.R.T Centre, NSW",
+      "bookingLink": "https://www.example.com/event2"
+    }
+  ]
+}
+

@@ -20,6 +20,7 @@ import {
   formatEventDateDisplay,
   parseNumericFieldValue,
 } from './formatEventDateRange';
+import { EventRegistration } from './EventRegistration';
 
 interface Fields {
   Title: Field<string>;
@@ -27,6 +28,7 @@ interface Fields {
   Content: RichTextField;
   Image: ImageField;
   EventRegistrationLink: LinkField;
+  EventRegistrationId: Field<number>;
   VehiclesPerTrip: Field<number>;
   EventStartDate: Field<string>;
   EventEndDate: Field<string>;
@@ -153,7 +155,7 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
                   </a>
                 )}
               </div>
-
+              <EventRegistration id={fields.EventRegistrationId?.value} />
               <div className="mt-8 grid w-full grid-cols-1 gap-4 md:grid-cols-3">
                 <div className="bg-background-muted flex flex-col items-center justify-center p-[10px]">
                   <PlaceholderStatIcon />
