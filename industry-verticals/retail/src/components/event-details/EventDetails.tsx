@@ -122,7 +122,7 @@ export const Default = ({ params, fields, rendering }: EventDetailsProps) => {
           <div className="aspect-video w-full overflow-hidden">
             <ContentSdkImage
               field={fields.HeaderImage}
-              className="w-full max-w-[700px] object-cover"
+              className="max-h-[700px] w-full object-cover"
             />
           </div>
         </div>

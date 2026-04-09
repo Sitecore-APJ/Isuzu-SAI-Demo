@@ -15,8 +15,9 @@ export interface Event {
   costPerVehicle: number;
   eventStartDate: string;
   eventDays: EventDay[];
-  location: string;
-  bookingLink: string;
+  /** Omitted in some static JSON rows */
+  location?: string;
+  bookingLink?: string;
 }
 
 export interface EventsPayload {
