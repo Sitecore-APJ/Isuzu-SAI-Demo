@@ -34,6 +34,11 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: '**.sitecorecloud.io*',
+        port: '',
+      },
+      {
+        protocol: 'https',
         hostname: 'xmc-*.**',
         port: '',
       },
@@ -45,6 +50,11 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'starter-verticals.sitecoresandbox.cloud',
+        port: '',
+      },
+      {
+        protocol: 'https',
+        hostname: 'almu-cars-clone1.sitecoresandbox.cloud',
         port: '',
       },
       {
