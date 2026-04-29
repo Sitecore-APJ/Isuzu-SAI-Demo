@@ -1,0 +1,42 @@
+﻿---
+ID: "a2f69fde-31ac-4f7d-a99e-bd6a4556beef"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/New page"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E0BD19AA-F2FF-41F2-A33B-226BBE30671B}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260410T052420Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6abc829-0c4e-462d-93c8-fc8c11e0321a"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: New page
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T052420Z
