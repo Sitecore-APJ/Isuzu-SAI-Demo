@@ -1,0 +1,32 @@
+﻿---
+ID: "9a329712-a1f3-4b56-a8dd-0f2d7ee64f07"
+Parent: "1afb8731-55c9-4ddb-ba99-fd4c3a6438ed"
+Template: "31bccf54-f751-478a-9e94-11cf0182d611"
+Path: "/sitecore/content/industry-verticals/forma-lux/Data/Models/D-Max/D-MAX 4x4 LS-UPlus Crew Cab Ute"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260430T220602Z
+    - ID: "33f55d17-0b7f-4ac7-bf29-11fabccaffc5"
+      Hint: Title
+      Value: "D-MAX 4x4 LS-U+ Crew Cab Ute "
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "151a76b7-a963-4f64-942a-6a987f4f1854"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260430T220853Z
+    - ID: "f71dcb70-279c-4b7e-ad54-d056e14c279e"
+      Hint: CabinType
+      Value: Crew Cab

@@ -1,0 +1,41 @@
+﻿---
+ID: "5c8ef525-d037-48c5-ac84-9fd8bdf81ec8"
+Parent: "1afb8731-55c9-4ddb-ba99-fd4c3a6438ed"
+Template: "31bccf54-f751-478a-9e94-11cf0182d611"
+Path: "/sitecore/content/industry-verticals/forma-lux/Data/Models/D-Max/D-MAX 4x4 X-Terrain Crew Cab Ute"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0433a436-9af9-4243-839d-8aa040bedaa4"
+      Hint: Summary
+      Value: |
+        <p>The top of the range D-MAX X-TERRAIN Crew Cab Ute commands attention at every turn. It has exclusive features such as an aero sports bar, fender flares, roof rails, unique 18" alloy wheels and a lockable roller tonneau cover. The X-TERRAIN also features a large 9" infotainment touchscreen, wireless Apple CarPlay&reg; &amp; Android Auto&trade; and a 7" Multi-Information Display for easy access to key information. The X-TERRAIN also offers an exclusive colour &ndash; Sunstone Orange mica.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260430T061237Z
+    - ID: "33f55d17-0b7f-4ac7-bf29-11fabccaffc5"
+      Hint: Title
+      Value: "4x4 X-TERRAIN Crew Cab Ute"
+    - ID: "6a19af62-3a42-40d3-91a9-adabbce5d668"
+      Hint: Model Display Features
+      Value: |
+        3.0L Turbo-Diesel Engine
+        9" Display w/ Apple CarPlay&reg;/Android Auto&trade;,
+        Voice Recognition &amp; Sat Nav
+        18" Alloy Wheels
+        Leather accented seats&sect; w/ red stitching
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f450938-17d1-418e-a417-6428be4ac894"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260430T062017Z
+    - ID: "f71dcb70-279c-4b7e-ad54-d056e14c279e"
+      Hint: CabinType
+      Value: Crew Cab

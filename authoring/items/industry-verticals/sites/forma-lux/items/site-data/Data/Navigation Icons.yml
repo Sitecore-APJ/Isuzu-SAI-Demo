@@ -3,6 +3,13 @@ ID: "7a2bb670-2048-43bf-a4eb-a59d64f01f11"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "47c672a4-fae9-4834-a0ba-1489a8fb7220"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Navigation Icons"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2affa528-4cd5-4b1c-bffd-ccf9360021e1"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6aff0477-1513-41b9-ab4d-afd0b3ea7109"
+      Value: "62109c39-78a1-4c0c-ab7c-f71eaff78f9b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\neli.kostadinova@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251016T103710Z
+      Value: 20260430T061348Z
 - Language: "es-ES"
   Versions:
   - Version: 1

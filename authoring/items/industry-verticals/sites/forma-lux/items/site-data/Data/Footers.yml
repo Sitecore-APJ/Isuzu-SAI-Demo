@@ -3,6 +3,13 @@ ID: "e9db93f1-1da6-4949-9657-828830dff5aa"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "78264062-4078-48ba-beb8-3bf32a08f91a"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Footers"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5254576b-8ee7-4164-88c8-118652e392d9"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "faf1d125-e057-412f-8bde-6f24ebf5405b"
+      Value: "146e55b0-3435-4cc0-ad26-df32f8307b18"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250827T100805Z
+      Value: 20260430T061348Z
 - Language: "es-ES"
   Versions:
   - Version: 1

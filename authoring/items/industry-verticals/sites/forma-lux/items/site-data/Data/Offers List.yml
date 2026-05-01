@@ -3,6 +3,13 @@ ID: "4ea2cae8-0ab1-427c-894c-ab961c266af0"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "ef999328-1fbd-4c7c-a791-1faff53724bc"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Offers List"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5a1cb7c8-14c0-4e2d-957b-d6c60b1d851d"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d3da384-081e-41aa-a7e3-44838c132ba7"
+      Value: "0fdfee24-7dc8-41cf-b429-8379168f6cc9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250829T074015Z
+      Value: 20260430T061349Z
 - Language: "es-ES"
   Versions:
   - Version: 1

@@ -3,6 +3,13 @@ ID: "f7a94339-fc9f-4377-9fcb-252ee5d97844"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "b762d567-87f5-493c-bb48-0c455d834457"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Texts"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3000
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "44ed9a2a-c283-4ee3-baca-b445cfd7f66c"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8bc0c81f-ed32-4d28-abde-92aa0ad2b7c0"
+      Value: "a94695a5-1bdd-4d04-bd7c-48e60d1e5498"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\neli.kostadinova@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250820T091650Z
+      Value: 20260430T061349Z
 - Language: "es-ES"
   Versions:
   - Version: 1

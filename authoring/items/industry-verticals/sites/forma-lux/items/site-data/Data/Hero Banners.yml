@@ -3,6 +3,13 @@ ID: "e79d8586-d4b5-42f5-aec1-ae82c4f47f0f"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "38001de0-6d0b-4bc5-bf95-f616cfe0e281"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Hero Banners"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "dcf321c4-abc8-4db2-ab83-898b887e0d2f"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e386ceaa-02b8-4cff-917b-a10ed0bb67be"
+      Value: "f1d856c1-7071-408c-85c5-7ec6bf550637"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250904T165421Z
+      Value: 20260430T061348Z
 - Language: "es-ES"
   Versions:
   - Version: 1

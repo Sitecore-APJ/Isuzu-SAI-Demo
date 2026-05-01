@@ -3,6 +3,13 @@ ID: "7a3cb362-094a-4892-ae25-bb6769db1d24"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "e2f0642e-737c-414f-9cd7-8d241e5878f9"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Product Color"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "89f1d978-adfd-4496-afe6-b32b59b738bb"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\ranula.gamage@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2587bc87-b4aa-44be-a418-639624cc8eac"
+      Value: "9856ed4b-6a12-4360-8372-f6cdaf2c08bd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250922T104759Z
+      Value: 20260430T061349Z
 - Language: "es-ES"
   Versions:
   - Version: 1

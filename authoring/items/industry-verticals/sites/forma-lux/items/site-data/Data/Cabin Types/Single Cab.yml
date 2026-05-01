@@ -1,0 +1,31 @@
+﻿---
+ID: "10b0a782-93da-49e7-a3ea-9dc937761531"
+Parent: "66f9ac22-df16-4c1a-8aad-8a5109dd170b"
+Template: "d22f02df-80e9-43c0-8500-351f01d96dd9"
+Path: "/sitecore/content/industry-verticals/forma-lux/Data/Cabin Types/Single Cab"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260430T061443Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57adf1f2-49fe-491d-9694-cce0503b3335"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260430T061443Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "1afb8731-55c9-4ddb-ba99-fd4c3a6438ed"
+Parent: "5183845b-650b-4c66-8ff0-f2292cb7e4dc"
+Template: "5b625564-b224-436b-85e5-c66172fadd90"
+Path: "/sitecore/content/industry-verticals/forma-lux/Data/Models/D-Max"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260430T061108Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f65b8f2-ba0d-4fe8-994b-059482365362"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mick.wingert@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260430T061115Z

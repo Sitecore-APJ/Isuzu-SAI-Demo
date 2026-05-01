@@ -1,0 +1,31 @@
+﻿---
+ID: "5651f184-f906-45df-8979-056aeada3bbc"
+Parent: "b8985c66-744b-4e7a-a519-820052ead655"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/industry-verticals/forma-lux/System/4/0/D"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260430T043534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\VvxWjLuTxiBMMstA0FdYAr1JD356e5v2
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\VvxWjLuTxiBMMstA0FdYAr1JD356e5v2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a326c99-77b8-431a-9951-670a114d7539"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\VvxWjLuTxiBMMstA0FdYAr1JD356e5v2
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260430T043534Z

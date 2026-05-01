@@ -3,6 +3,13 @@ ID: "d2cf3393-6182-485d-9648-6b217c295754"
 Parent: "dcc7de24-6385-4653-9875-0d5be089f705"
 Template: "2492a8c2-72f4-44e7-86eb-c2bd9f6c0f6c"
 Path: "/sitecore/content/industry-verticals/forma-lux/Data/Subscribe"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2800
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "96d610de-374b-43dc-8405-2f2e66cdd10d"
 Languages:
 - Language: en
   Versions:
@@ -21,14 +28,14 @@ Languages:
         sitecore\ranula.gamage@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e2889475-81ee-4e6f-adce-f585320df086"
+      Value: "ae172570-f7ce-448b-b050-8a3fdce4049e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mick.wingert@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250910T092425Z
+      Value: 20260430T061349Z
 - Language: "es-ES"
   Versions:
   - Version: 1
